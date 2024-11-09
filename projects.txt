@@ -1,0 +1,1270 @@
+-D3VL-L3MON: https://github.com/tucommenceapousser/-D3VL-L3MON - Description: None
+0x69-Spoofer: https://github.com/tucommenceapousser/0x69-Spoofer - Description: Email Spoofer, Fake Credit Cards - Address - IP Address
+0xa: https://github.com/tucommenceapousser/0xa - Description: None
+100000-Proxy: https://github.com/tucommenceapousser/100000-Proxy - Description: All proxy list, 100000 proxies in proxy.txt
+1nf0-hunt3r: https://github.com/tucommenceapousser/1nf0-hunt3r - Description: None
+403-Bypass: https://github.com/tucommenceapousser/403-Bypass - Description: Bypass 403 pages
+403-bypassx: https://github.com/tucommenceapousser/403-bypassx - Description: None
+403bypasser: https://github.com/tucommenceapousser/403bypasser - Description: None
+adbwebkit: https://github.com/tucommenceapousser/adbwebkit - Description: None
+AeroDeploy: https://github.com/tucommenceapousser/AeroDeploy - Description: None
+Agnee: https://github.com/tucommenceapousser/Agnee - Description: None
+Agnee-1: https://github.com/tucommenceapousser/Agnee-1 - Description: Find sensitive information using dorks from different search-engines.
+ai-control: https://github.com/tucommenceapousser/ai-control - Description: None
+AI-Generates-Code-Using-Python-and-GPT-3: https://github.com/tucommenceapousser/AI-Generates-Code-Using-Python-and-GPT-3 - Description: None
+AIRAVAT: https://github.com/tucommenceapousser/AIRAVAT - Description: None
+Aircrack: https://github.com/tucommenceapousser/Aircrack - Description: Automatic Wifi Cracker. Uses Airodump, Aircrack, Aireplay
+aircrack-ng: https://github.com/tucommenceapousser/aircrack-ng - Description: WiFi security auditing tools suite
+aircrack-scripts: https://github.com/tucommenceapousser/aircrack-scripts - Description: Aircrack-ng Suite Scripts to Easily Demonstrate Wifi Attacks
+airgeddon: https://github.com/tucommenceapousser/airgeddon - Description: This is a multi-use bash script for Linux systems to audit wireless networks.
+AirStrike: https://github.com/tucommenceapousser/AirStrike - Description: Automatically grab and crack WPA-2 handshakes with distributed client-server architecture
+Akuma: https://github.com/tucommenceapousser/Akuma - Description: Reverse And Dorking Tools
+ALFA_DATA-RCE: https://github.com/tucommenceapousser/ALFA_DATA-RCE - Description: ALFA_DATA (ALFA Team Shell) Remote Code Execution
+alfred: https://github.com/tucommenceapousser/alfred - Description: Alfred is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
+ALL-IN-ONE: https://github.com/tucommenceapousser/ALL-IN-ONE - Description: All In One [10 Tool] Can Work On Different Devices Because It Is A Multi-purpose Program. Using This Tool, You Can Brute Force Attack On Facebook, Install Wifi Hacking Tool,Install Install Atarmux Setup Tools, You Can Install Tarmux Theme In Your Device Easily
+AM0N-Eye: https://github.com/tucommenceapousser/AM0N-Eye - Description: None
+Amazon-Prime-Clone: https://github.com/tucommenceapousser/Amazon-Prime-Clone - Description: None
+amazon-prime-video-site: https://github.com/tucommenceapousser/amazon-prime-video-site - Description: None
+Android-Debloater: https://github.com/tucommenceapousser/Android-Debloater - Description: None
+Android-IMSI-Catcher-Detector: https://github.com/tucommenceapousser/Android-IMSI-Catcher-Detector - Description: AIMSICD • Fight IMSI-Catcher, StingRay and silent SMS!
+ano: https://github.com/tucommenceapousser/ano - Description: None
+anonaddy: https://github.com/tucommenceapousser/anonaddy - Description: Anonymous email forwarding
+AnonCracker: https://github.com/tucommenceapousser/AnonCracker - Description: A single tool to bruteforce pdf , zip and  hashes very super fast tool developed with python3 
+anontargetpropose: https://github.com/tucommenceapousser/anontargetpropose - Description: None
+Ant-Media-Server: https://github.com/tucommenceapousser/Ant-Media-Server - Description: Ant Media Server is a live streaming engine software that provides adaptive, ultra low latency streaming by using WebRTC technology with ~0.5 seconds latency. Ant Media Server is auto-scalable and it can run on-premise or on-cloud.
+anybadge: https://github.com/tucommenceapousser/anybadge - Description: A Python project for generating badges for your projects, with a focus on simplicity and flexibility.
+anyproxy: https://github.com/tucommenceapousser/anyproxy - Description: A fully configurable http/https proxy in NodeJS
+Apache-APISIX-CVE-2022-24112: https://github.com/tucommenceapousser/Apache-APISIX-CVE-2022-24112 - Description: Apache APISIX Remote Code Execution (CVE-2022-24112) proof of concept exploit 
+api-scanner: https://github.com/tucommenceapousser/api-scanner - Description: This is a API Security Scanner with panel
+API-Wordlist: https://github.com/tucommenceapousser/API-Wordlist - Description: None
+APKDeepLens: https://github.com/tucommenceapousser/APKDeepLens - Description: Android security insights in full spectrum.
+appmanifest: https://github.com/tucommenceapousser/appmanifest - Description: Web App Manifest Generator
+arctic-food-pharmacist: https://github.com/tucommenceapousser/arctic-food-pharmacist - Description: App which will extract ingredients from food package and tell is it banned in any country.
+ars0n-framework: https://github.com/tucommenceapousser/ars0n-framework - Description: A Modern Framework for Bug Bounty Hunting
+Ascii_Logo: https://github.com/tucommenceapousser/Ascii_Logo - Description: Convert Your Pictures/Logos into ASCII Art
+Ashok: https://github.com/tucommenceapousser/Ashok - Description: Ashok is a OSINT Recon Tool , a.k.a :heart_eyes:  Swiss Army knife .
+Atlas: https://github.com/tucommenceapousser/Atlas - Description: Quick SQLMap Tamper Suggester 
+ATSCAN: https://github.com/tucommenceapousser/ATSCAN - Description: Advanced dork Search & Mass Exploit Scanner
+attackgen: https://github.com/tucommenceapousser/attackgen - Description: AttackGen is a cybersecurity incident response testing tool that leverages the power of large language models and the comprehensive MITRE ATT&CK framework. The tool generates tailored incident response scenarios based on user-selected threat actor groups and your organisation's details.
+AudioLDM: https://github.com/tucommenceapousser/AudioLDM - Description: None
+audioldm-m-full: https://github.com/tucommenceapousser/audioldm-m-full - Description: None
+audioldm-s-full-v2: https://github.com/tucommenceapousser/audioldm-s-full-v2 - Description: None
+AutoCrack: https://github.com/tucommenceapousser/AutoCrack - Description: Wi-Fi Automatic Crack
+Autofill-Stripe-Supreme-Shopify: https://github.com/tucommenceapousser/Autofill-Stripe-Supreme-Shopify - Description: Autofill for Supreme, Stripe and Shopify with a Discord Authentification.
+AutoRecon-XSS: https://github.com/tucommenceapousser/AutoRecon-XSS - Description: AutoRecon-XSS is a script designed for automated reconnaissance of XSS vulnerabilities. It crawls the target URL or alive domains, extracts potential vulnerable URLs, and checks them for XSS vulnerabilities.
+AutoSnapBot: https://github.com/tucommenceapousser/AutoSnapBot - Description: A snapchat bot that will auto respond or snap people, can used to boost snap score! 
+autosub: https://github.com/tucommenceapousser/autosub - Description: [NO LONGER MAINTAINED] Command-line utility for auto-generating subtitles for any video file
+AutoUpdateMyTools: https://github.com/tucommenceapousser/AutoUpdateMyTools - Description: None
+aux: https://github.com/tucommenceapousser/aux - Description: Auxiliary stuff
+AvillaForensics: https://github.com/tucommenceapousser/AvillaForensics - Description: Avilla Forensics 3.0
+awesome-bugbounty-tools: https://github.com/tucommenceapousser/awesome-bugbounty-tools - Description: None
+awesome-ddos-tools: https://github.com/tucommenceapousser/awesome-ddos-tools - Description: Collection of several DDos tools.
+awesome-oneliner-bugbounty: https://github.com/tucommenceapousser/awesome-oneliner-bugbounty - Description: None
+awesome-oneliner-bugbounty-1: https://github.com/tucommenceapousser/awesome-oneliner-bugbounty-1 - Description: A collection of awesome one-liner scripts especially for bug bounty tips.
+Awesome-RCE-techniques: https://github.com/tucommenceapousser/Awesome-RCE-techniques - Description: Awesome list of step by step techniques  to achieve Remote Code Execution on various apps!
+Axer: https://github.com/tucommenceapousser/Axer - Description: 𓃌 -  Exploit faster with simplicity and ease using Axer
+B-GEN: https://github.com/tucommenceapousser/B-GEN - Description: Инструмент для генерации текста в ASCII
+backcookie: https://github.com/tucommenceapousser/backcookie - Description: Small backdoor using cookie.
+banner-generator: https://github.com/tucommenceapousser/banner-generator - Description: Banner generator is used to create a python file that prints colorful banner slowly.
+Banshee: https://github.com/tucommenceapousser/Banshee - Description: Experimental Windows x64 Kernel Rootkit.
+bbot: https://github.com/tucommenceapousser/bbot - Description: OSINT automation for hackers.
+bbr: https://github.com/tucommenceapousser/bbr - Description: None
+BDROID: https://github.com/tucommenceapousser/BDROID - Description: ANDROID BOTNET | ANDROID RAT | EASY TO USE | EASY TO CONTROL | WITHOUT ROOT | REMOTELY CONTROL ANDROID 2022
+Beelzebub: https://github.com/tucommenceapousser/Beelzebub - Description: Beelzebub is a the next level shell finder
+betterplayer: https://github.com/tucommenceapousser/betterplayer - Description: None
+bf_active_sub: https://github.com/tucommenceapousser/bf_active_sub - Description: Subdomain Bruteforce - Bounty Quick Code
+Big-Papa: https://github.com/tucommenceapousser/Big-Papa - Description: Big-Papa is a remote cookie stealer which can then be used for session hijacking and Bypassing 2 Factor Authentication
+bigip-scanner: https://github.com/tucommenceapousser/bigip-scanner - Description: Determine the running software version of a remote F5 BIG-IP management interface.
+binary_decoder: https://github.com/tucommenceapousser/binary_decoder - Description: None
+BITB: https://github.com/tucommenceapousser/BITB - Description: Browser In The Browser (BITB) Templates
+Black-Tool: https://github.com/tucommenceapousser/Black-Tool - Description: Black-Tool v5.0.0  ⬛
+BlueSpy: https://github.com/tucommenceapousser/BlueSpy - Description: None
+BLX-Stealer: https://github.com/tucommenceapousser/BLX-Stealer - Description: [ANTI VMWARE UPDATE] [ALL ERRORS FIXED](v2.7.5)Grab token, passwords, cookies, interesting files and more. And have injection.
+bomb3r: https://github.com/tucommenceapousser/bomb3r - Description: None
+bot-brother: https://github.com/tucommenceapousser/bot-brother - Description: None
+bounty-targets: https://github.com/tucommenceapousser/bounty-targets - Description: None
+bounty-targets-data: https://github.com/tucommenceapousser/bounty-targets-data - Description: None
+bounty-targetx: https://github.com/tucommenceapousser/bounty-targetx - Description: None
+Brutal: https://github.com/tucommenceapousser/Brutal - Description: Payload for teensy like a rubber ducky but the syntax is different. this Human interfaes device ( HID attacks ). Penetration With Teensy  . Brutal is a toolkit to quickly create various payload,powershell attack , virus attack and launch listener for a Human Interface Device ( Payload Teensy )
+bruteforce: https://github.com/tucommenceapousser/bruteforce - Description: None
+Brutegram: https://github.com/tucommenceapousser/Brutegram - Description: Instagram multi-bruteforce Platfrom
+bruteX: https://github.com/tucommenceapousser/bruteX - Description: A tool to crack a wifi password using wordlist.  The Wordlists contains over 100K commonly used passwords
+bug-bounty-dorks: https://github.com/tucommenceapousser/bug-bounty-dorks - Description: None
+Bug-Bounty-Search-Engine: https://github.com/tucommenceapousser/Bug-Bounty-Search-Engine - Description: None
+bugbountydork: https://github.com/tucommenceapousser/bugbountydork - Description: Bugbounty search engine by trhacknon
+bughuntingtools: https://github.com/tucommenceapousser/bughuntingtools - Description: this script include all bug bounty tools used in bug hunting.
+BurpSuiteInstaller: https://github.com/tucommenceapousser/BurpSuiteInstaller - Description: Install and Activate your Burp Suite Professional with ase.
+byp4xx: https://github.com/tucommenceapousser/byp4xx - Description: 40X/HTTP bypasser in Go. Features: Verb tampering, headers, #bugbountytips, User-Agents, extensions, default credentials...
+Bypass-Webshell: https://github.com/tucommenceapousser/Bypass-Webshell - Description: Prvi8 PHP AND ASPX Web Shells ( Bypasser Web Shells ) NEW ! ( 2023 )
+bypass_magic_bytes: https://github.com/tucommenceapousser/bypass_magic_bytes - Description: Bypassing File Upload Restriction using Magic Bytes
+CallSpoofv2: https://github.com/tucommenceapousser/CallSpoofv2 - Description: This tool named "CallSpoof" is mainly used to prank with friends , All working apis are present in the script , If you do any illegal activites through this script we are not responsible 
+Cam-Hackers: https://github.com/tucommenceapousser/Cam-Hackers - Description: Hack Cameras  CCTV FREE
+camera-exploit-tool: https://github.com/tucommenceapousser/camera-exploit-tool - Description: Automated exploit scanner for cameras on the internet
+CamPhish: https://github.com/tucommenceapousser/CamPhish - Description: Grab cam shots from target's phone front camera or PC webcam just sending a link.
+Captain-Brute: https://github.com/tucommenceapousser/Captain-Brute - Description: None
+car-detection-yolov7: https://github.com/tucommenceapousser/car-detection-yolov7 - Description: None
+Car-Pedestrian-Detection: https://github.com/tucommenceapousser/Car-Pedestrian-Detection - Description: None
+catsploit: https://github.com/tucommenceapousser/catsploit - Description: None
+censys-python: https://github.com/tucommenceapousser/censys-python - Description: An easy-to-use and lightweight API wrapper for Censys APIs.
+Chat-app-using-Nodejs: https://github.com/tucommenceapousser/Chat-app-using-Nodejs - Description: None
+Chat-Bot-using-gpt-3.5-turbo: https://github.com/tucommenceapousser/Chat-Bot-using-gpt-3.5-turbo - Description: build a chatbot using the OpenAI's Chat GPT API "gpt-3.5-turbo" and Flasks Server. 
+Chat-GPT-Enhance: https://github.com/tucommenceapousser/Chat-GPT-Enhance - Description: None
+chatbot-starter: https://github.com/tucommenceapousser/chatbot-starter - Description: None
+chatgpt-api: https://github.com/tucommenceapousser/chatgpt-api - Description: Node.js client for the official ChatGPT API. 🔥
+ChatGPT-Next-Web: https://github.com/tucommenceapousser/ChatGPT-Next-Web - Description: A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
+chatGPT-shell-cli: https://github.com/tucommenceapousser/chatGPT-shell-cli - Description: Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required.
+chatgpt-telegram: https://github.com/tucommenceapousser/chatgpt-telegram - Description: Run your own GPTChat Telegram bot, with a single command!
+chatgpt-telegram-bot: https://github.com/tucommenceapousser/chatgpt-telegram-bot - Description: None
+chatgpt-web-application: https://github.com/tucommenceapousser/chatgpt-web-application - Description: A web application that allows users to interact with various OpenAI's models through a simple and user-friendly interface.
+Chatgpt4: https://github.com/tucommenceapousser/Chatgpt4 - Description: None
+cheetah: https://github.com/tucommenceapousser/cheetah - Description: a very fast brute force webshell password tool
+cheryl: https://github.com/tucommenceapousser/cheryl - Description: PHP web based file manager
+CiLocks: https://github.com/tucommenceapousser/CiLocks - Description: Crack Interface lockscreen, Metasploit and More Android/IOS Hacking
+citrixInspector: https://github.com/tucommenceapousser/citrixInspector - Description: Accurately fingerprint and detect vulnerable (and patched!) versions of Netscaler / Citrix ADC to CVE-2023-3519
+click-sec: https://github.com/tucommenceapousser/click-sec - Description: Click-Sec Is clickjacking vuln testing tool
+client: https://github.com/tucommenceapousser/client - Description: ⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
+CloneBot_V2: https://github.com/tucommenceapousser/CloneBot_V2 - Description: None
+CloudBrute: https://github.com/tucommenceapousser/CloudBrute - Description: Awesome cloud enumerator 
+cloudflared: https://github.com/tucommenceapousser/cloudflared - Description: Cloudflare Tunnel requires the installation of a lightweight server-side daemon, cloudflared,  to connect your infrastructure to Cloudflare. cloudflared is an open source project maintained by Cloudflare.
+cmd.jsp: https://github.com/tucommenceapousser/cmd.jsp - Description: A super small jsp webshell with file upload capabilities.
+cncserver: https://github.com/tucommenceapousser/cncserver - Description: None
+codex_py2cpp: https://github.com/tucommenceapousser/codex_py2cpp - Description: Converts python code into c++ by using OpenAI CODEX.
+cog-whisper: https://github.com/tucommenceapousser/cog-whisper - Description: None
+collection-web3-bug-bounty: https://github.com/tucommenceapousser/collection-web3-bug-bounty - Description: None
+color-palette-generator: https://github.com/tucommenceapousser/color-palette-generator - Description: Generates different harmonies for a given color
+commonmark.js: https://github.com/tucommenceapousser/commonmark.js - Description: CommonMark parser and renderer in JavaScript
+console-webshell: https://github.com/tucommenceapousser/console-webshell - Description: just another webshell modded from a good base ive use since a long time
+Conversational-Q-A-OpenAI-Assistant-with-Scraping: https://github.com/tucommenceapousser/Conversational-Q-A-OpenAI-Assistant-with-Scraping - Description: It's an automation to scraping any website, getting the pdf file format of the context and conversational Q/A chatbot with OpenAI Assistant.
+CookieThief: https://github.com/tucommenceapousser/CookieThief - Description: Cookie stealing Flask application
+cors-anywhere: https://github.com/tucommenceapousser/cors-anywhere - Description: CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.
+Corscan: https://github.com/tucommenceapousser/Corscan - Description:   Advanced CORS Header Checker Tool with Vulnerability Detection and Bypass Attempts
+Cosmic-Mirai: https://github.com/tucommenceapousser/Cosmic-Mirai - Description: Cosmic Mirai Botnet Make for education!
+cpuminer-multi: https://github.com/tucommenceapousser/cpuminer-multi - Description: crypto cpuminer (linux + windows)
+CrackMapExec: https://github.com/tucommenceapousser/CrackMapExec - Description: A swiss army knife for pentesting networks
+croc: https://github.com/tucommenceapousser/croc - Description: Easily and securely send things from one computer to another :crocodile: :package:
+crosis: https://github.com/tucommenceapousser/crosis - Description: A JavaScript client that speaks Replit's container protocol 
+CrossLinked: https://github.com/tucommenceapousser/CrossLinked - Description: LinkedIn enumeration tool to extract valid employee names from an organization through search engine scraping
+crypto_basics: https://github.com/tucommenceapousser/crypto_basics - Description: I am learning&creating stuffs about cryptography.
+Cryptush: https://github.com/tucommenceapousser/Cryptush - Description: An open-source .NET Ransomware
+csrf-scrapper: https://github.com/tucommenceapousser/csrf-scrapper - Description: None
+css-layout-hack-extension: https://github.com/tucommenceapousser/css-layout-hack-extension - Description: You can see website layers with different colors easily
+css-shadow-generator: https://github.com/tucommenceapousser/css-shadow-generator - Description: 🎨 CSS box-shadow and text-shadow generator website
+curlconvert: https://github.com/tucommenceapousser/curlconvert - Description: None
+curlconverter: https://github.com/tucommenceapousser/curlconverter - Description: Convert cURL commands to Python, JavaScript, Java, C#, PHP, Go, Dart, R, Ruby, Rust, MATLAB, Elixir, CFML, Ansible or JSON
+custom-readme-styles: https://github.com/tucommenceapousser/custom-readme-styles - Description: None
+custxss: https://github.com/tucommenceapousser/custxss - Description: None
+CVE-2017-8225-EXPLOIT: https://github.com/tucommenceapousser/CVE-2017-8225-EXPLOIT - Description: A PoC exploit for CVE-2017-8225 - GoAhead System.ini Leak
+CVE-2018-9995-EXPLOIT: https://github.com/tucommenceapousser/CVE-2018-9995-EXPLOIT - Description: A PoC exploit for CVE-2018-9995 - DVR Authentication Bypass
+CVE-2019-11510-1: https://github.com/tucommenceapousser/CVE-2019-11510-1 - Description: SSL VPN Rce
+CVE-2019-11932: https://github.com/tucommenceapousser/CVE-2019-11932 - Description: Double-Free BUG in WhatsApp exploit poc.
+CVE-2019-11932deta: https://github.com/tucommenceapousser/CVE-2019-11932deta - Description: Double-Free BUG in WhatsApp exploit poc.
+CVE-2019-11932o: https://github.com/tucommenceapousser/CVE-2019-11932o - Description:  double-free bug in WhatsApp exploit poc
+CVE-2019-19492: https://github.com/tucommenceapousser/CVE-2019-19492 - Description: None
+CVE-2019-19492-2: https://github.com/tucommenceapousser/CVE-2019-19492-2 - Description: None
+CVE-2019-6340: https://github.com/tucommenceapousser/CVE-2019-6340 - Description: Drupal8's REST RCE, SA-CORE-2019-003, CVE-2019-6340
+CVE-2020-12112: https://github.com/tucommenceapousser/CVE-2020-12112 - Description: BigBlueButton versions lower than 2.2.4 have a LFI vulnerability allowing access to sensitive files. 🚨
+CVE-2020-24186-WordPress-wpDiscuz-7.0.4-RCE: https://github.com/tucommenceapousser/CVE-2020-24186-WordPress-wpDiscuz-7.0.4-RCE - Description: wpDiscuz 7.0.4 Remote Code Execution
+CVE-2020-24186_reverse_shell_upload: https://github.com/tucommenceapousser/CVE-2020-24186_reverse_shell_upload - Description: None
+CVE-2020-7961-Mass: https://github.com/tucommenceapousser/CVE-2020-7961-Mass - Description: CVE-2020–7961 Mass exploit for Script Kiddies
+CVE-2020-7961-POC: https://github.com/tucommenceapousser/CVE-2020-7961-POC - Description: None
+CVE-2021-22986: https://github.com/tucommenceapousser/CVE-2021-22986 - Description: CVE-2021-22986 & F5 BIG-IP RCE
+CVE-2021-22986-SSRF2RCE: https://github.com/tucommenceapousser/CVE-2021-22986-SSRF2RCE - Description: F5 BIG-IP/BIG-IQ iControl Rest API SSRF to RCE
+CVE-2021-3493: https://github.com/tucommenceapousser/CVE-2021-3493 - Description: Ubuntu OverlayFS Local Privesc
+CVE-2021-46422: https://github.com/tucommenceapousser/CVE-2021-46422 - Description: None
+CVE-2021-46704: https://github.com/tucommenceapousser/CVE-2021-46704 - Description: CVE-2021-46704 Nuclei template
+CVE-2021-46704-POC: https://github.com/tucommenceapousser/CVE-2021-46704-POC - Description: CVE-2021-46704 GenieACS Command Injection POC
+CVE-2022-2586-LPE: https://github.com/tucommenceapousser/CVE-2022-2586-LPE - Description: CVE-2022-2586: Linux kernel nft_object UAF
+CVE-2022-29455: https://github.com/tucommenceapousser/CVE-2022-29455 - Description: None
+CVE-2022-29455-mass: https://github.com/tucommenceapousser/CVE-2022-29455-mass - Description: None
+CVE-2022-4395: https://github.com/tucommenceapousser/CVE-2022-4395 - Description: Mass Auto Exploit CVE-2022-4395 Unauthenticated Arbitrary File Upload
+CVE-2022-45025: https://github.com/tucommenceapousser/CVE-2022-45025 - Description: [PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom)
+CVE-2023-1698-PoC: https://github.com/tucommenceapousser/CVE-2023-1698-PoC - Description: Mass Exploit - CVE-2023-1698 <  Unauthenticated Remote Command Execution
+CVE-2023-20198: https://github.com/tucommenceapousser/CVE-2023-20198 - Description: An Exploitation script developed to exploit the CVE-2023-20198 Cisco zero day vulnerability on their IOS routers 
+CVE-2023-201988: https://github.com/tucommenceapousser/CVE-2023-201988 - Description: A PoC for CVE 2023-20198
+CVE-2023-22515: https://github.com/tucommenceapousser/CVE-2023-22515 - Description: CVE-2023-22515: Confluence Broken Access Control Exploit
+CVE-2023-22527: https://github.com/tucommenceapousser/CVE-2023-22527 - Description: Atlassian Confluence - Remote Code Execution
+CVE-2023-24488: https://github.com/tucommenceapousser/CVE-2023-24488 - Description: POC for CVE-2023-24488
+CVE-2023-24489-PoC: https://github.com/tucommenceapousser/CVE-2023-24489-PoC - Description: CVE-2023-24489 PoC & Exploiter
+CVE-2023-24489-ShareFile: https://github.com/tucommenceapousser/CVE-2023-24489-ShareFile - Description: This project is a Python script that exploits the CVE-2023-24489 vulnerability in ShareFile. It allows remote command execution on the target server. The script supports both Windows and Linux (On testing) platforms, and it can be used to exploit individual targets or perform mass checking on a list of URLs.
+CVE-2023-25292: https://github.com/tucommenceapousser/CVE-2023-25292 - Description: None
+CVE-2023-26255-Exp: https://github.com/tucommenceapousser/CVE-2023-26255-Exp - Description: None
+CVE-2023-27373: https://github.com/tucommenceapousser/CVE-2023-27373 - Description: SPIP before 4.2.1 allows Remote Code Execution via form values in the public area because serialization is mishandled. The fixed versions are 3.2.18, 4.0.10, 4.1.8, and 4.2.1.
+CVE-2023-28121: https://github.com/tucommenceapousser/CVE-2023-28121 - Description: Python 2.7
+CVE-2023-28121-b: https://github.com/tucommenceapousser/CVE-2023-28121-b - Description: WooCommerce Payments: Unauthorized Admin Access Exploit
+CVE-2023-2825: https://github.com/tucommenceapousser/CVE-2023-2825 - Description: GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0.
+CVE-2023-28343: https://github.com/tucommenceapousser/CVE-2023-28343 - Description: CVE-2023-28343 POC exploit
+CVE-2023-29489: https://github.com/tucommenceapousser/CVE-2023-29489 - Description: None
+CVE-2023-29489.py: https://github.com/tucommenceapousser/CVE-2023-29489.py - Description: None
+CVE-2023-30533: https://github.com/tucommenceapousser/CVE-2023-30533 - Description: CVE-2023-30533
+CVE-2023-30777: https://github.com/tucommenceapousser/CVE-2023-30777 - Description: Proof of Concept (PoC) URL generator for a reflected XSS vulnerability in the Advanced Custom Fields WordPress plugin.
+CVE-2023-32315: https://github.com/tucommenceapousser/CVE-2023-32315 - Description: Perform With Massive Openfire Unauthenticated Users
+CVE-2023-33381-MitraStar-GPT-2741GNAC: https://github.com/tucommenceapousser/CVE-2023-33381-MitraStar-GPT-2741GNAC - Description: CVE-2023-33381: OS command injection on MitraStar GPT-2741GNAC
+CVE-2023-33617: https://github.com/tucommenceapousser/CVE-2023-33617 - Description: None
+CVE-2023-33802: https://github.com/tucommenceapousser/CVE-2023-33802 - Description: None
+CVE-2023-34960: https://github.com/tucommenceapousser/CVE-2023-34960 - Description: None
+CVE-2023-34960-ex: https://github.com/tucommenceapousser/CVE-2023-34960-ex - Description: Perform with Massive Command Injection (Chamilo)
+CVE-2023-35078: https://github.com/tucommenceapousser/CVE-2023-35078 - Description: Proof of concept script to check if the site is vulnerable to CVE-2023-35078
+CVE-2023-35078-Exploit-POC: https://github.com/tucommenceapousser/CVE-2023-35078-Exploit-POC - Description: CVE-2023-35078 Remote Unauthenticated API Access Vulnerability Exploit POC
+cve-2023-3519-citrix-scanner: https://github.com/tucommenceapousser/cve-2023-3519-citrix-scanner - Description: Citrix Scanner for CVE-2023-3519
+CVE-2023-35671: https://github.com/tucommenceapousser/CVE-2023-35671 - Description: Android App Pin Security Issue Allowing Unauthorized Payments via Google Wallet
+CVE-2023-36664-Ghostscript-command-injection: https://github.com/tucommenceapousser/CVE-2023-36664-Ghostscript-command-injection - Description: Ghostscript command injection vulnerability PoC (CVE-2023-36664)
+CVE-2023-38388: https://github.com/tucommenceapousser/CVE-2023-38388 - Description: Mass Exploit - CVE-2023-38388 < Unauthenticated < Arbitrary File Upload
+CVE-2023-38389-PoC: https://github.com/tucommenceapousser/CVE-2023-38389-PoC - Description: CVE-2023-38389 < Wordpress < JupiterX Core < Unauthenticated Account Takeover
+CVE-2023-38831-RaRCE: https://github.com/tucommenceapousser/CVE-2023-38831-RaRCE - Description: An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23
+CVE-2023-38831-winrar-exploit: https://github.com/tucommenceapousser/CVE-2023-38831-winrar-exploit - Description: CVE-2023-38831 winrar exploit generator
+CVE-2023-41425: https://github.com/tucommenceapousser/CVE-2023-41425 - Description: None
+CVE-2023-43770-POC: https://github.com/tucommenceapousser/CVE-2023-43770-POC - Description: A Proof-Of-Concept for the CVE-2023-43770 vulnerability. 
+CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ: https://github.com/tucommenceapousser/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ - Description:  Achieving a Reverse Shell Exploit for Apache ActiveMQ (CVE_2023-46604) 
+CVE-2023-46747-RCE: https://github.com/tucommenceapousser/CVE-2023-46747-RCE - Description: exploit for f5-big-ip RCE cve-2023-46747
+CVE-2023-46805: https://github.com/tucommenceapousser/CVE-2023-46805 - Description: Ivanti Pulse Secure CVE-2023-46805 Scanner - Based on Assetnote's Research
+CVE-2023-47246: https://github.com/tucommenceapousser/CVE-2023-47246 - Description: None
+CVE-2023-47246-EXP: https://github.com/tucommenceapousser/CVE-2023-47246-EXP - Description: exploit for cve-2023-47246 SysAid RCE (shell upload)
+CVE-2023-49103: https://github.com/tucommenceapousser/CVE-2023-49103 - Description: PoC for the CVE-2023-49103
+CVE-2023-4911: https://github.com/tucommenceapousser/CVE-2023-4911 - Description: CVE-2023-4911
+cve-2023-50164-poc: https://github.com/tucommenceapousser/cve-2023-50164-poc - Description: Proof of Concept for Path Traversal in Apache Struts ("CVE-2023-50164")
+CVE-2023-50917: https://github.com/tucommenceapousser/CVE-2023-50917 - Description: MajorDoMo Unauthenticated RCE: Deep Dive & Exploitation Techniques
+CVE-2023-52251-POC: https://github.com/tucommenceapousser/CVE-2023-52251-POC - Description: CVE-2023-52251 There is a Remote Code Execution vulnerability provectus/kafka-ui.
+CVE-2023-5360: https://github.com/tucommenceapousser/CVE-2023-5360 - Description: Exploit for the unauthenticated file upload vulnerability in WordPress's Royal Elementor Addons and Templates plugin (< 1.3.79). CVE-ID: CVE-2023-5360.
+CVE-2023-6553: https://github.com/tucommenceapousser/CVE-2023-6553 - Description: Backup Migration <= 1.3.7 - Unauthenticated Remote Code Execution
+CVE-2024-1086: https://github.com/tucommenceapousser/CVE-2024-1086 - Description: Universal local privilege escalation Proof-of-Concept exploit for CVE-2024-1086, working on most Linux kernels between v5.14 and v6.6, including Debian, Ubuntu, and KernelCTF. The success rate is 99.4% in KernelCTF images.
+CVE-2024-1698-PoC: https://github.com/tucommenceapousser/CVE-2024-1698-PoC - Description: Mass Exploit CVE-2024-1698 - Wordpress NotificationX <= 2.8.2 - SQL Injection
+CVE-2024-21111: https://github.com/tucommenceapousser/CVE-2024-21111 - Description: Oracle VirtualBox Elevation of Privilege (Local Privilege Escalation) Vulnerability
+CVE-2024-21887: https://github.com/tucommenceapousser/CVE-2024-21887 - Description: exploit for ivanti
+CVE-2024-21893.py: https://github.com/tucommenceapousser/CVE-2024-21893.py - Description: CVE-2024-21893: SSRF Vulnerability in Ivanti Connect Secure
+CVE-2024-22274-RCE: https://github.com/tucommenceapousser/CVE-2024-22274-RCE - Description: PoC -  Authenticated Remote Code Execution in VMware vCenter Server (CVE-2024-22274 Exploit))
+CVE-2024-23897: https://github.com/tucommenceapousser/CVE-2024-23897 - Description: CVE-2024-23897 | Jenkins <= 2.441 & <= LTS 2.426.2 PoC and scanner. 
+CVE-2024-24816: https://github.com/tucommenceapousser/CVE-2024-24816 - Description: CKEditor 4 < 4.24.0-lts - XSS vulnerability in samples that use the "preview" feature.
+CVE-2024-25153: https://github.com/tucommenceapousser/CVE-2024-25153 - Description: Proof-of-concept exploit for CVE-2024-25153.
+CVE-2024-25600: https://github.com/tucommenceapousser/CVE-2024-25600 - Description: Unauthenticated Remote Code Execution – Bricks <= 1.9.6
+CVE-2024-25600_Nuclei-Template: https://github.com/tucommenceapousser/CVE-2024-25600_Nuclei-Template - Description: Nuclei template and information about the POC for CVE-2024-25600
+CVE-2024-29824-PoC: https://github.com/tucommenceapousser/CVE-2024-29824-PoC - Description: Mass Exploit - CVE-2024-29824  - Ivanti EPM - Remote Code Execution (RCE)
+CVE-2024-29972: https://github.com/tucommenceapousser/CVE-2024-29972 - Description: None
+CVE-2024-29972-CVE-2024-29976-CVE-2024-29973-CVE-2024-29975-CVE-2024-29974-poc: https://github.com/tucommenceapousser/CVE-2024-29972-CVE-2024-29976-CVE-2024-29973-CVE-2024-29975-CVE-2024-29974-poc - Description: This is a proof of concept for the Zyxel vulnerabilities I found. Read the blog :)
+CVE-2024-31982: https://github.com/tucommenceapousser/CVE-2024-31982 - Description: None
+CVE-2024-31982-b: https://github.com/tucommenceapousser/CVE-2024-31982-b - Description: POC for CVE-2024-31982: XWiki Platform Remote Code Execution  > 14.10.20
+CVE-2024-32113: https://github.com/tucommenceapousser/CVE-2024-32113 - Description: Apache OFBIZ Path traversal leading to RCE POC[CVE-2024-32113 & CVE-2024-36104]
+CVE-2024-32523-Poc: https://github.com/tucommenceapousser/CVE-2024-32523-Poc - Description: CVE-2024-32523 Mailster <= 4.0.6 - Unauthenticated Local File Inclusion
+CVE-2024-34102: https://github.com/tucommenceapousser/CVE-2024-34102 - Description: POC for CVE-2024-34102. A pre-authentication XML entity injection issue in Magento / Adobe Commerce. 
+CVE-2024-34102-c: https://github.com/tucommenceapousser/CVE-2024-34102-c - Description: CosmicSting (CVE-2024-34102)
+CVE-2024-34470: https://github.com/tucommenceapousser/CVE-2024-34470 - Description: None
+CVE-2024-34693: https://github.com/tucommenceapousser/CVE-2024-34693 - Description: None
+CVE-2024-36401: https://github.com/tucommenceapousser/CVE-2024-36401 - Description: POC for CVE-2024-36401. This POC will attempt to establish a reverse shell from the vlun targets.
+CVE-2024-36401-choc: https://github.com/tucommenceapousser/CVE-2024-36401-choc - Description: GeoServer Remote Code Execution
+CVE-2024-4040: https://github.com/tucommenceapousser/CVE-2024-4040 - Description: Scanner for CVE-2024-4040
+CVE-2024-4040-Scanner: https://github.com/tucommenceapousser/CVE-2024-4040-Scanner - Description: Scanner of vulnerability on crushftp instance
+CVE-2024-4577-RCE: https://github.com/tucommenceapousser/CVE-2024-4577-RCE - Description: PoC - PHP CGI Argument Injection CVE-2024-4577 (Scanner and Exploitation)
+CVE-2024-4577-RCE-EXP: https://github.com/tucommenceapousser/CVE-2024-4577-RCE-EXP - Description: None
+CVE-2024-4879: https://github.com/tucommenceapousser/CVE-2024-4879 - Description: None
+CVE-2024-6387: https://github.com/tucommenceapousser/CVE-2024-6387 - Description: PoC - Remote Unauthenticated Code Execution Vulnerability in OpenSSH server (CVE-2024-6387) 
+CVE-2024-6387-Vulnerability-Checker: https://github.com/tucommenceapousser/CVE-2024-6387-Vulnerability-Checker - Description: This Python script checks for the CVE-2024-6387 vulnerability in OpenSSH servers. It supports multiple IP addresses, URLs, CIDR ranges, and ports. The script can also read addresses from a file.
+CVE-2024-8504: https://github.com/tucommenceapousser/CVE-2024-8504 - Description: VICIdial Unauthenticated SQLi to RCE Exploit (CVE-2024-8503 and CVE-2024-8504)
+CVE-2024-9464: https://github.com/tucommenceapousser/CVE-2024-9464 - Description: Proof of Concept Exploit for CVE-2024-9464
+CVE-Half-Day-Watcher: https://github.com/tucommenceapousser/CVE-Half-Day-Watcher - Description: None
+cve-maker: https://github.com/tucommenceapousser/cve-maker - Description: Tool to find CVEs and Exploits.
+Cyberonix: https://github.com/tucommenceapousser/Cyberonix - Description: Cyberonix is a complete resource hub for Cyber Security Community. Our aim is to make this tool an 1 stop solution for all the Hackers out there to get resources of various topics in Cyber Security. We will keep updating this tool & adding new & updated resources on the go.
+CyberPanel: https://github.com/tucommenceapousser/CyberPanel - Description: CyberPanel v2.3.6 Pre-Auth RCE Exploit Tool
+CyberPhish: https://github.com/tucommenceapousser/CyberPhish - Description: None
+CyberViralCreator: https://github.com/tucommenceapousser/CyberViralCreator - Description: None
+D-DOS-Attack-24: https://github.com/tucommenceapousser/D-DOS-Attack-24 - Description: None
+D3m0n1z3dShell: https://github.com/tucommenceapousser/D3m0n1z3dShell - Description: Demonized Shell is an Advanced Tool for persistence in linux.
+dall-e-image-generator: https://github.com/tucommenceapousser/dall-e-image-generator - Description: Simple Image Generator uese DALL-E 3 Model
+dalle-playground: https://github.com/tucommenceapousser/dalle-playground - Description: None
+Dark-Phish: https://github.com/tucommenceapousser/Dark-Phish - Description: A Powerful Phishing Tool with 50+ phishing templates. For more about Dark-Phish tool please visit the website.
+DarkGPT: https://github.com/tucommenceapousser/DarkGPT - Description: DarkGPT is an OSINT assistant based on GPT-4-200K (recommended use) designed to perform queries on leaked databases, thus providing an artificial intelligence assistant that can be useful in your traditional OSINT processes.
+DarkPhisher: https://github.com/tucommenceapousser/DarkPhisher - Description: This is a best phishing tool for phishing OTP
+Darkscan: https://github.com/tucommenceapousser/Darkscan - Description: DarkScan automate all the NMAP scans
+DarkTube-Client: https://github.com/tucommenceapousser/DarkTube-Client - Description: React app for Download free and unlimited YouTube videos, audios, or thumbnails.
+DarkTube-Client-trkn: https://github.com/tucommenceapousser/DarkTube-Client-trkn - Description: React app for Download free and unlimited YouTube videos, audios, or thumbnails.
+DarkTube-Server: https://github.com/tucommenceapousser/DarkTube-Server - Description: the api for DarkTube-Client
+DataSurgeon: https://github.com/tucommenceapousser/DataSurgeon - Description:  Quickly Extracts IP's, Email Addresses, Hashes, Files, Credit Cards, Social Secuirty Numbers and a lot More From Text
+decrypt-chrome-passwords: https://github.com/tucommenceapousser/decrypt-chrome-passwords - Description: None
+dedsec-otp-bypass: https://github.com/tucommenceapousser/dedsec-otp-bypass - Description: Phishing tool that support OTP bypass method
+Dedsec-VPN: https://github.com/tucommenceapousser/Dedsec-VPN - Description: DEDSEC-VPN - Stay Anonymous
+Dedsec-Wifi-Troll: https://github.com/tucommenceapousser/Dedsec-Wifi-Troll - Description: Piso wifi vendo trolling tool
+dedsec-wifiphish_v2: https://github.com/tucommenceapousser/dedsec-wifiphish_v2 - Description: phishing using wifi method - create fake wifi to dump social media password
+Dedsec-WifiV2: https://github.com/tucommenceapousser/Dedsec-WifiV2 - Description: Wifi password cracking tool       tested (PLDT-Home Wifi)
+dedsecimsi: https://github.com/tucommenceapousser/dedsecimsi - Description: sms sniffer and imsi catcher
+Deep-Live-Cam: https://github.com/tucommenceapousser/Deep-Live-Cam - Description: real time face swap and one-click video deepfake with only a single image
+deepgram-local-voice-file: https://github.com/tucommenceapousser/deepgram-local-voice-file - Description: None
+Deepminer: https://github.com/tucommenceapousser/Deepminer - Description: Deep web crawler and search engine
+Deface-method-webdav: https://github.com/tucommenceapousser/Deface-method-webdav - Description: None
+DefGen: https://github.com/tucommenceapousser/DefGen - Description: Deface HTML Page Generator
+delorean_bot: https://github.com/tucommenceapousser/delorean_bot - Description: None
+demo-node-device-detector: https://github.com/tucommenceapousser/demo-node-device-detector - Description: None
+DetectDee: https://github.com/tucommenceapousser/DetectDee - Description: DetectDee: Hunt down social media accounts by username, email or phone across social networks.
+deviceCode2WinHello: https://github.com/tucommenceapousser/deviceCode2WinHello - Description: A small script that automates Entra ID persistence with Windows Hello For Business key
+DevRel-Examples-External: https://github.com/tucommenceapousser/DevRel-Examples-External - Description: None
+devzat: https://github.com/tucommenceapousser/devzat - Description: The devs are over here at devzat, chat over SSH!
+Dharma: https://github.com/tucommenceapousser/Dharma - Description: None
+diodb: https://github.com/tucommenceapousser/diodb - Description: None
+DIOS_WAF_bypass: https://github.com/tucommenceapousser/DIOS_WAF_bypass - Description: Custom DIOS for SQL injection 
+dirlister: https://github.com/tucommenceapousser/dirlister - Description: None
+discoshell: https://github.com/tucommenceapousser/discoshell - Description: a simple discovery script that uses popular tools like subfinder, amass, puredns, alterx, massdns and others
+DocChat: https://github.com/tucommenceapousser/DocChat - Description: None
+docleaner: https://github.com/tucommenceapousser/docleaner - Description: A web service to clean documents from potentially privacy-invasive metadata
+DogeRat: https://github.com/tucommenceapousser/DogeRat - Description: None
+DogeRatt: https://github.com/tucommenceapousser/DogeRatt - Description: A multifunctional Telegram based Android RAT without port forwarding.
+Dome: https://github.com/tucommenceapousser/Dome - Description: Dome - Subdomain Enumeration Tool. Fast and reliable python script that makes active and/or passive scan to obtain subdomains and search for open ports. 
+DontTouchMyMask: https://github.com/tucommenceapousser/DontTouchMyMask - Description: Ne touches pas a mon masque, c'est comme si tu jouais avec mes ****
+dorkbot: https://github.com/tucommenceapousser/dorkbot - Description: None
+dorks: https://github.com/tucommenceapousser/dorks - Description: None
+Dorks-collections-list: https://github.com/tucommenceapousser/Dorks-collections-list - Description: None
+Dorks-Shodan-2023: https://github.com/tucommenceapousser/Dorks-Shodan-2023 - Description: Shodan Dorks 2023
+dorksploit: https://github.com/tucommenceapousser/dorksploit - Description: Advance Google Dorker and Vulnerability Scanner
+DorXNG: https://github.com/tucommenceapousser/DorXNG - Description: Next Generation DorX. Built by Dorks, for Dorks. 🤓
+download-youtube-subtitle: https://github.com/tucommenceapousser/download-youtube-subtitle - Description: download youtube subtitles(closed caption, cc) as txt or json, support translation and proxy. available on PIP  🐍 . try it at google colab!
+dox: https://github.com/tucommenceapousser/dox - Description: Ceci est le code de mon site web de doxing
+DragonCrack: https://github.com/tucommenceapousser/DragonCrack - Description: Cracking protocols FTP and SSH.
+Drupal-SA-CORE-2019-003: https://github.com/tucommenceapousser/Drupal-SA-CORE-2019-003 - Description: CVE-2019-6340-Drupal SA-CORE-2019-003
+drupalgeddon2: https://github.com/tucommenceapousser/drupalgeddon2 - Description: lorddemon/drupalgeddon2 just working with Python3
+drupot: https://github.com/tucommenceapousser/drupot - Description: Drupal Honeypot
+ds3os: https://github.com/tucommenceapousser/ds3os - Description: Dark Souls - Open Server
+DUMP: https://github.com/tucommenceapousser/DUMP - Description: File  Dumping Multi Free. 
+E-Keylogger: https://github.com/tucommenceapousser/E-Keylogger - Description: Remote Email Keylogger
+e-liquid-calculator: https://github.com/tucommenceapousser/e-liquid-calculator - Description: Calculate the e-liquid that you can make from base components
+eagleeye: https://github.com/tucommenceapousser/eagleeye - Description: Simple scripts for recognizing faces, and identifying people, across multiple video files. 
+easyXssPayload: https://github.com/tucommenceapousser/easyXssPayload - Description: XssPayload List .  Usage:
+elemfind: https://github.com/tucommenceapousser/elemfind - Description: None
+elia: https://github.com/tucommenceapousser/elia - Description: A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
+ellipto-iptv: https://github.com/tucommenceapousser/ellipto-iptv - Description: None
+Email-Spammer: https://github.com/tucommenceapousser/Email-Spammer - Description: Great script for sending and spaming emails! gmail, yahoo, outlook, hotmail.
+email-spoofer-2023: https://github.com/tucommenceapousser/email-spoofer-2023 - Description: Email Spoofer is a Python Script that helps to Spoof Email Addresses, The mail spoofed by this tool lands 100% on inbox and the tool is very easy to use. The email will be received with orginal user's logo. 
+Email_spoofer: https://github.com/tucommenceapousser/Email_spoofer - Description: :email::hammer: PHP email spoofer | Send emails from any email adress
+emploleaks: https://github.com/tucommenceapousser/emploleaks - Description: An OSINT tool that helps detect members of a company with leaked credentials
+Espionage: https://github.com/tucommenceapousser/Espionage - Description: A Linux Packet Sniffing Suite for Automated MiTM Attacks 
+espoofer: https://github.com/tucommenceapousser/espoofer - Description: An email spoofing testing tool that aims to bypass SPF/DKIM/DMARC and forge DKIM signatures.🍻
+ESpoofing: https://github.com/tucommenceapousser/ESpoofing - Description: A fuzzing tool for email sender spoofing attack. 👻
+evalsploit: https://github.com/tucommenceapousser/evalsploit - Description: Based on eval function PHP one-line backdoor
+Evil-Droid: https://github.com/tucommenceapousser/Evil-Droid - Description: None
+Ex-Talegram-Rat: https://github.com/tucommenceapousser/Ex-Talegram-Rat - Description: A multifunctional Telegram based Android RAT without port forwarding.
+express-honeypot: https://github.com/tucommenceapousser/express-honeypot - Description: express honeypot
+ExRAT: https://github.com/tucommenceapousser/ExRAT - Description: TO BE USED FOR EDUCATIONAL PURPOSES ONLY
+exturls: https://github.com/tucommenceapousser/exturls - Description: bookmarklet for extract and open urls of website
+Eyes: https://github.com/tucommenceapousser/Eyes - Description: 🕵️ Email osint tool 
+facebook-chat-api: https://github.com/tucommenceapousser/facebook-chat-api - Description: Unofficial Facebook Chat API for Nodejs
+facebook-clone: https://github.com/tucommenceapousser/facebook-clone - Description: Facebook login page clone (with new designs)
+facebook-tool: https://github.com/tucommenceapousser/facebook-tool - Description: Tool for facebok
+Facebook-Video-Downloader: https://github.com/tucommenceapousser/Facebook-Video-Downloader - Description: Facebook Video Downloader in PHP 
+FacebookToolkit: https://github.com/tucommenceapousser/FacebookToolkit - Description: a tool to get Facebook data, and some Facebook bots, and extra tools found on Facebook Toolkit ++.
+FaceBrute: https://github.com/tucommenceapousser/FaceBrute - Description: Simple tool for brute force facebook account
+Facedump: https://github.com/tucommenceapousser/Facedump - Description: Facebook bot dumper&scraper
+face_recognition: https://github.com/tucommenceapousser/face_recognition - Description: The world's simplest facial recognition api for Python and the command line
+Fake-Mail-BOT: https://github.com/tucommenceapousser/Fake-Mail-BOT - Description: simple API base pyrogram fake mail gen bot source code here !
+FakeAP: https://github.com/tucommenceapousser/FakeAP - Description: Herramienta para crear una red wifi falsa y obtener el tráfico de red del usuario.
+FallingSkies-CVE-2023-35885: https://github.com/tucommenceapousser/FallingSkies-CVE-2023-35885 - Description: Cloudpanel 0-day Exploit
+fancy_obfuscator: https://github.com/tucommenceapousser/fancy_obfuscator - Description: None
+fast-mail-bomber: https://github.com/tucommenceapousser/fast-mail-bomber - Description: None
+FastChat: https://github.com/tucommenceapousser/FastChat - Description: None
+Fast_Sms_Bomber: https://github.com/tucommenceapousser/Fast_Sms_Bomber - Description: Fast Sms Bomber Türkiye
+favfound: https://github.com/tucommenceapousser/favfound - Description: None
+favgen: https://github.com/tucommenceapousser/favgen - Description: Bash Script to generate favicons in multiple sizes (.ico and .png) 
+favicon: https://github.com/tucommenceapousser/favicon - Description: Favicon generator in PHP
+favicon-generator: https://github.com/tucommenceapousser/favicon-generator - Description: Bash Script to generate favicons in multiple sizes (.ico and .png) 
+favycon: https://github.com/tucommenceapousser/favycon - Description: Favycon - A favicon generator tool
+FB-Brute: https://github.com/tucommenceapousser/FB-Brute - Description: A Working Tools For Facebook Terget I'd Hack By Bruteforce from TEAM-STLP
+FB-Guard: https://github.com/tucommenceapousser/FB-Guard - Description: None
+fb-guard-php: https://github.com/tucommenceapousser/fb-guard-php - Description: Guard Photo Profile
+fbi: https://github.com/tucommenceapousser/fbi - Description: None
+FBI-tools: https://github.com/tucommenceapousser/FBI-tools - Description: 🕵️ OSINT Tools for gathering information and actions forensics 🕵️ 
+FbProfileGuard: https://github.com/tucommenceapousser/FbProfileGuard - Description: Turn on/off facebook profile guard
+FBPwner: https://github.com/tucommenceapousser/FBPwner - Description: Facebook Group Admin Takeover 
+FBtool: https://github.com/tucommenceapousser/FBtool - Description: None
+filemanager: https://github.com/tucommenceapousser/filemanager - Description: None
+Filemanagerx: https://github.com/tucommenceapousser/Filemanagerx - Description: PHP file manager
+filesign: https://github.com/tucommenceapousser/filesign - Description: Sign files and scan for find sign (in dev)
+FileStreamBot-pro: https://github.com/tucommenceapousser/FileStreamBot-pro - Description: None
+filtergen: https://github.com/tucommenceapousser/filtergen - Description: Miscellaneous radio calculators
+findigo: https://github.com/tucommenceapousser/findigo - Description: Findigo is small tool to information gathering phonenumbers.
+finding-api-keys-on-repl-it: https://github.com/tucommenceapousser/finding-api-keys-on-repl-it - Description: Code I used to find API keys shared on repl.it
+findit: https://github.com/tucommenceapousser/findit - Description: None
+findproj: https://github.com/tucommenceapousser/findproj - Description: None
+firefox_decrypt: https://github.com/tucommenceapousser/firefox_decrypt - Description: Firefox Decrypt is a tool to extract passwords from Mozilla (Firefox™, Waterfox™, Thunderbird®, SeaMonkey®) profiles
+flaskanalyz: https://github.com/tucommenceapousser/flaskanalyz - Description: None
+FMark: https://github.com/tucommenceapousser/FMark - Description: Enable Markdown on Facebook comments and posts.
+fofa-py: https://github.com/tucommenceapousser/fofa-py - Description: fofa pro的sdk，python语言版本
+fofa2Xray: https://github.com/tucommenceapousser/fofa2Xray - Description: User fofa api get hosts and xray to webscan.
+FofaMap: https://github.com/tucommenceapousser/FofaMap - Description: FofaMap是一款基于Python3开发的跨平台FOFA API数据采集器，支持普通查询、网站存活检测、统计聚合查询、Host聚合查询、网站图标查询、批量查询等查询功能。同时FofaMap还能够自定义查询FOFA数据，并根据查询结果自动去重和筛选关键字，生成对应的Excel表格。另外春节特别版还可以调用Nuclei对FofaMap查询出来的目标进行漏洞扫描，让你在挖洞路上快人一步。
+fofax: https://github.com/tucommenceapousser/fofax - Description: fofax is a command line query tool based on the API of https://fofa.info/, simple is the best!
+Forbidden-Buster: https://github.com/tucommenceapousser/Forbidden-Buster - Description: A tool designed to automate various techniques in order to bypass HTTP 401 and 403 response codes and gain access to unauthorized areas in the system. This code is made for security enthusiasts and professionals only. Use it at your own risk.
+Forum_SQLi: https://github.com/tucommenceapousser/Forum_SQLi - Description: Automatic SQL injector web-forum based CMS
+fpmvuln: https://github.com/tucommenceapousser/fpmvuln - Description: bash poc scripts to exploit open fpm ports
+fracker: https://github.com/tucommenceapousser/fracker - Description: PHP function tracker
+free-proxy-list: https://github.com/tucommenceapousser/free-proxy-list - Description: 🚀 Free HTTP, SOCKS4, & SOCKS5 Proxy List * Updated every 5 minutes *
+FrequencyDictionaries: https://github.com/tucommenceapousser/FrequencyDictionaries - Description: None
+freshonions-torscraper: https://github.com/tucommenceapousser/freshonions-torscraper - Description: Fresh Onions is an open source TOR spider / hidden service onion crawler hosted at zlal32teyptf4tvi.onion
+FTPNuker: https://github.com/tucommenceapousser/FTPNuker - Description: A tool for brute-forcing FTP
+FuguHub-8.4-Authenticated-RCE-CVE-2024-27697: https://github.com/tucommenceapousser/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697 - Description: Arbitrary Code Execution on FuguHub 8.4
+fulcrom: https://github.com/tucommenceapousser/fulcrom - Description: A web shell for pivoting and lateral movement
+fuxploider: https://github.com/tucommenceapousser/fuxploider - Description: File upload vulnerability scanner and exploitation tool.
+fuzzuli: https://github.com/tucommenceapousser/fuzzuli - Description: fuzzuli is a url fuzzing tool that aims to find critical backup files by creating a dynamic wordlist based on the domain.
+G-Host: https://github.com/tucommenceapousser/G-Host - Description: Run you Localhost Server 
+GalleryHack: https://github.com/tucommenceapousser/GalleryHack - Description: None
+garble: https://github.com/tucommenceapousser/garble - Description: Obfuscate Go builds
+Garud: https://github.com/tucommenceapousser/Garud - Description: None
+Gel4y-Mini-Shell-Backdoor: https://github.com/tucommenceapousser/Gel4y-Mini-Shell-Backdoor - Description: A webshell that can bypass some system security
+Genzai: https://github.com/tucommenceapousser/Genzai - Description: The IoT security toolkit to help identify IoT related dashboards and scan them for default passwords and vulnerabilities.
+Geogramint: https://github.com/tucommenceapousser/Geogramint - Description: An OSINT Geolocalization tool for Telegram that find nearby users and groups 📡🌍🔍
+GET-CODE: https://github.com/tucommenceapousser/GET-CODE - Description: None
+gf: https://github.com/tucommenceapousser/gf - Description: A wrapper around grep, to help you grep for things
+GG-Dorking: https://github.com/tucommenceapousser/GG-Dorking - Description: GG Dorking is a tool to generate GitHub and Google dorking for pentesters and bug bounty hunters.
+ghauri: https://github.com/tucommenceapousser/ghauri - Description: An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
+Ghost-Framework: https://github.com/tucommenceapousser/Ghost-Framework - Description: None
+ghost-phisher: https://github.com/tucommenceapousser/ghost-phisher - Description: Automatically exported from code.google.com/p/ghost-phisher
+Ghostcat-CNVD-2020-10487: https://github.com/tucommenceapousser/Ghostcat-CNVD-2020-10487 - Description: Ghostcat read file/code execute,CNVD-2020-10487(CVE-2020-1938) 
+GhostManSec: https://github.com/tucommenceapousser/GhostManSec - Description: GMS-Sploit GhostManSec - Hacking Tool - 8 method hacking - GhostManS3c-Sploit v1.2-dev
+GhostTrack: https://github.com/tucommenceapousser/GhostTrack - Description: Useful tool to track location or mobile number
+git-http-backend: https://github.com/tucommenceapousser/git-http-backend - Description: None
+git-http-server2: https://github.com/tucommenceapousser/git-http-server2 - Description: None
+GitDorker: https://github.com/tucommenceapousser/GitDorker - Description: None
+gitengine: https://github.com/tucommenceapousser/gitengine - Description: None
+GitFive: https://github.com/tucommenceapousser/GitFive - Description: 🐙 Track down GitHub users.
+gitGraber: https://github.com/tucommenceapousser/gitGraber - Description: gitGraber: monitor GitHub to search and find sensitive data in real time for different online services such as: Google, Amazon, Paypal, Github, Mailgun, Facebook, Twitter, Heroku, Stripe...
+github-dorks: https://github.com/tucommenceapousser/github-dorks - Description: None
+github-dorkss: https://github.com/tucommenceapousser/github-dorkss - Description: Find leaked secrets via github search
+github-email-scraper: https://github.com/tucommenceapousser/github-email-scraper - Description: Scrape contributor emails from a GitHub repository.
+github-profile-readme-generator: https://github.com/tucommenceapousser/github-profile-readme-generator - Description: 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
+github-profile-views-counter: https://github.com/tucommenceapousser/github-profile-views-counter - Description: It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
+github-scraper: https://github.com/tucommenceapousser/github-scraper - Description: None
+github-scraper-1: https://github.com/tucommenceapousser/github-scraper-1 - Description: 🕷 🕸 crawl GitHub web pages for insights we can't GET from the API ... :bulb:
+github-search: https://github.com/tucommenceapousser/github-search - Description: A collection of tools to perform searches on GitHub.
+github-web-scraper: https://github.com/tucommenceapousser/github-web-scraper - Description: 🕷️ A cool web scraper
+GithubBackup: https://github.com/tucommenceapousser/GithubBackup - Description: GitHub Backup Script
+GitHub_Takeover: https://github.com/tucommenceapousser/GitHub_Takeover - Description: None
+gitmoji-changelog: https://github.com/tucommenceapousser/gitmoji-changelog - Description: A changelog generator for gitmoji 😜
+gitpillage: https://github.com/tucommenceapousser/gitpillage - Description: Pillage a git repo found in an accessible web root
+glit: https://github.com/tucommenceapousser/glit - Description: Retrieve all mails of users related to a git repository, a git user or a git organization
+glitrkn: https://github.com/tucommenceapousser/glitrkn - Description: None
+glitrknpy: https://github.com/tucommenceapousser/glitrknpy - Description: None
+Gmail-Hack: https://github.com/tucommenceapousser/Gmail-Hack - Description: Easy gmail hacking in python
+gog3-panel: https://github.com/tucommenceapousser/gog3-panel - Description: Open source GOG3 panel
+gogs: https://github.com/tucommenceapousser/gogs - Description: Gogs is a painless self-hosted Git service
+gogs-to-github: https://github.com/tucommenceapousser/gogs-to-github - Description: A tool to help you migrate Gogs repositories to Github
+google-play-api: https://github.com/tucommenceapousser/google-play-api - Description: Turns google-play-scraper into a RESTful API
+google-reverse-search: https://github.com/tucommenceapousser/google-reverse-search - Description: None
+google-search-results-nodejs: https://github.com/tucommenceapousser/google-search-results-nodejs - Description: SerpApi client library for Node.js. Previously: Google Search Results Node.js.
+GoogleScraper: https://github.com/tucommenceapousser/GoogleScraper - Description: A Python module to scrape several search engines (like Google, Yandex, Bing, Duckduckgo, ...). Including asynchronous networking support.
+GoogleScrapingBlogs: https://github.com/tucommenceapousser/GoogleScrapingBlogs - Description: None
+google_dork_list: https://github.com/tucommenceapousser/google_dork_list - Description: None
+gotor: https://github.com/tucommenceapousser/gotor - Description: This program provides efficient web scraping services for Tor and non-Tor sites. The program has both a CLI and  REST API. 
+GPT-4-Unlimited-Tools: https://github.com/tucommenceapousser/GPT-4-Unlimited-Tools - Description: Custom Plugins for GPT-4 (easy web app interface)
+gpt-engineer: https://github.com/tucommenceapousser/gpt-engineer - Description: Specify what you want it to build, the AI asks for clarification, and then builds it.
+GPT-WAF: https://github.com/tucommenceapousser/GPT-WAF - Description: This is a WAF using GPT-4. (⚠️ Laravel only)
+gpt3_security_vulnerability_scanner: https://github.com/tucommenceapousser/gpt3_security_vulnerability_scanner - Description: GPT-3 found hundreds of security vulnerabilities in this repo
+GPT4Streamlit: https://github.com/tucommenceapousser/GPT4Streamlit - Description: None
+gptexp: https://github.com/tucommenceapousser/gptexp - Description: None
+gptwgen: https://github.com/tucommenceapousser/gptwgen - Description: None
+GPT_Vuln-analyzer: https://github.com/tucommenceapousser/GPT_Vuln-analyzer - Description: Uses ChatGPT API, Bard API, and Llama2, Python-Nmap, DNS Recon modules and uses the GPT3 model to create vulnerability reports based on Nmap scan data, and DNS scan information. It can also perform subdomain enumeration to a great extent
+gramjs: https://github.com/tucommenceapousser/gramjs - Description: None
+GraphSpy: https://github.com/tucommenceapousser/GraphSpy - Description: Initial Access and Post-Exploitation Tool for AAD and O365 with a browser-based GUI
+GRecon: https://github.com/tucommenceapousser/GRecon - Description: Another version of katana, more automated but less stable. the purpose of this small tool is to run a Google based passive recon against your scope.
+guardn: https://github.com/tucommenceapousser/guardn - Description: Enable/Disable Facebook Profile Picture Guard
+GxN: https://github.com/tucommenceapousser/GxN - Description: GrandFather X Nightmare [MultiTool]
+h4rpy: https://github.com/tucommenceapousser/h4rpy - Description: Automated WPA/WPA2 PSK attack tool.
+hack: https://github.com/tucommenceapousser/hack - Description: ⛷ Dead simple CSS framework.
+HACK-GALLERY: https://github.com/tucommenceapousser/HACK-GALLERY - Description: None
+hackGPT: https://github.com/tucommenceapousser/hackGPT - Description: I leverage OpenAI and ChatGPT to do hackerish things
+hades: https://github.com/tucommenceapousser/hades - Description: None
+Hades-C2: https://github.com/tucommenceapousser/Hades-C2 - Description: Hades Basic Command & Control Server 
+hakip2host: https://github.com/tucommenceapousser/hakip2host - Description: hakip2host takes a list of IP addresses via stdin, then does a series of checks to return associated domain names.
+hakrawler: https://github.com/tucommenceapousser/hakrawler - Description: Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
+hashidcrack: https://github.com/tucommenceapousser/hashidcrack - Description: None
+haste: https://github.com/tucommenceapousser/haste - Description: None
+haste-client: https://github.com/tucommenceapousser/haste-client - Description: None
+haste-server: https://github.com/tucommenceapousser/haste-server - Description: None
+haste-servero: https://github.com/tucommenceapousser/haste-servero - Description: open source pastebin written in node.js
+hasteclient: https://github.com/tucommenceapousser/hasteclient - Description: None
+HBSQLI: https://github.com/tucommenceapousser/HBSQLI - Description: Automated Tool for Testing Header Based Blind SQL Injection
+HCKRtool: https://github.com/tucommenceapousser/HCKRtool - Description: Hacking Toolkit
+headerpwn: https://github.com/tucommenceapousser/headerpwn - Description: A fuzzer for finding anomalies and analyzing how servers respond to different HTTP headers
+HeartDNS: https://github.com/tucommenceapousser/HeartDNS - Description: DNS Project OSINT
+hideip.me: https://github.com/tucommenceapousser/hideip.me - Description:   proxy list that updates every 10 minutes
+hi_my_name_is_keyboard: https://github.com/tucommenceapousser/hi_my_name_is_keyboard - Description: None
+hls.js: https://github.com/tucommenceapousser/hls.js - Description: None
+holypython: https://github.com/tucommenceapousser/holypython - Description: None
+honeypots-detection: https://github.com/tucommenceapousser/honeypots-detection - Description: Nuclei templates for honeypots detection.
+honeyup: https://github.com/tucommenceapousser/honeyup - Description: An uploader honeypot designed to look like poor website security.
+horse25519: https://github.com/tucommenceapousser/horse25519 - Description: None
+HostDarkWeb: https://github.com/tucommenceapousser/HostDarkWeb - Description: Create & Host Your Own Dark Web Onion Address Website on Termux (A Hidden Service on TOR)
+hosting: https://github.com/tucommenceapousser/hosting - Description: This is a setup for a Tor based shared web hosting server
+htmlawed: https://github.com/tucommenceapousser/htmlawed - Description: JS port of htmLawed HTML filter library
+HtmlSmugglin: https://github.com/tucommenceapousser/HtmlSmugglin - Description: None
+http-server-online: https://github.com/tucommenceapousser/http-server-online - Description: Start a local HTTP server without any tools, just open a web page.
+httpbin: https://github.com/tucommenceapousser/httpbin - Description: HTTP Request & Response Service, written in Python + Flask.
+huggingface.js: https://github.com/tucommenceapousser/huggingface.js - Description: None
+HuggingGPT: https://github.com/tucommenceapousser/HuggingGPT - Description: None
+Hunting-Queries-Detection-Rules: https://github.com/tucommenceapousser/Hunting-Queries-Detection-Rules - Description: KQL Queries. Defender For Endpoint and Azure Sentinel Hunting and Detection Queries in KQL. Out of the box KQL queries for: Advanced Hunting, Custom Detection, Analytics Rules & Hunting Rules. 
+huntkit: https://github.com/tucommenceapousser/huntkit - Description: Docker - Ubuntu with a bunch of PenTesting tools and wordlists
+huntr-com-bug-bounties-collector: https://github.com/tucommenceapousser/huntr-com-bug-bounties-collector - Description: keep watching new bug bounty (vulnerability) postings.
+HuntRthys: https://github.com/tucommenceapousser/HuntRthys - Description: Specific C2 Detection Tool Written To Detect C2 Servers From Rhadamanthys Stealer Malware.
+image-generator-using-openai-api: https://github.com/tucommenceapousser/image-generator-using-openai-api - Description: None
+impacket: https://github.com/tucommenceapousser/impacket - Description: Impacket is a collection of Python classes for working with network protocols.
+IMSI-catcher: https://github.com/tucommenceapousser/IMSI-catcher - Description: This program show you IMSI numbers of cellphones around you.
+incongruous-maple-prawn: https://github.com/tucommenceapousser/incongruous-maple-prawn - Description: None
+Indirect-Prompt-Injection-Example: https://github.com/tucommenceapousser/Indirect-Prompt-Injection-Example - Description: Indirect Prompt Injection 
+INFO-X: https://github.com/tucommenceapousser/INFO-X - Description: Info-X is a information gathering tool...with this tool You can get vectims like ip , gmail , phone number information....
+infoooze: https://github.com/tucommenceapousser/infoooze - Description: A OSINT tool which helps you to quickly find information effectively. All you need is to input and it will take take care of rest.
+Insert-3D-Objects-in-a-webpage-using-HTML-and-CSS-only: https://github.com/tucommenceapousser/Insert-3D-Objects-in-a-webpage-using-HTML-and-CSS-only - Description: None
+InSta-Reseter: https://github.com/tucommenceapousser/InSta-Reseter - Description: This tool named "InSta-Reseter" is mainly use to reset the Instagram Account Secure Accounts , All working apis are present in the script , If you do any illegal activites through this script we are not responsible
+instaBrut-cupp: https://github.com/tucommenceapousser/instaBrut-cupp - Description: 📷- Bruteforce attack for Instagram & Common User Passwords Profiler (CUPP)  2022
+InstaBrute: https://github.com/tucommenceapousser/InstaBrute - Description: InstaBrute Two Ways to Brute-force Instagram Account Hacking
+Instagram-: https://github.com/tucommenceapousser/Instagram- - Description: Bruteforce attack for Instagram
+Instagram-Hacker: https://github.com/tucommenceapousser/Instagram-Hacker - Description: This is an advanced script for Instagram bruteforce attacks. WARNING THIS IS A REAL TOOL!
+installnh: https://github.com/tucommenceapousser/installnh - Description: None
+instaloader: https://github.com/tucommenceapousser/instaloader - Description: Download pictures (or videos) along with their captions and other metadata from Instagram.
+InstaWhois: https://github.com/tucommenceapousser/InstaWhois - Description: Instagram account information
+instax: https://github.com/tucommenceapousser/instax - Description: None
+instaxtrk: https://github.com/tucommenceapousser/instaxtrk - Description: None
+ip: https://github.com/tucommenceapousser/ip - Description: Pelacak IP 🚶
+ip-geolocation-api-javascript-sdk: https://github.com/tucommenceapousser/ip-geolocation-api-javascript-sdk - Description: IP Geolocation API Javascript SDK
+ip2proxy-python: https://github.com/tucommenceapousser/ip2proxy-python - Description: None
+ipcdn: https://github.com/tucommenceapousser/ipcdn - Description: Check which CDN providers an IP list belongs to
+ipnuminfo: https://github.com/tucommenceapousser/ipnuminfo - Description: Ip and Phone number information
+IPTV: https://github.com/tucommenceapousser/IPTV - Description: None
+iptv-checker: https://github.com/tucommenceapousser/iptv-checker - Description: None
+iptv-list: https://github.com/tucommenceapousser/iptv-list - Description: None
+iptv-m3u-viewer: https://github.com/tucommenceapousser/iptv-m3u-viewer - Description: None
+IPTV-Player: https://github.com/tucommenceapousser/IPTV-Player - Description: None
+iptv2: https://github.com/tucommenceapousser/iptv2 - Description: None
+iptvnator: https://github.com/tucommenceapousser/iptvnator - Description: None
+IPWatchtower: https://github.com/tucommenceapousser/IPWatchtower - Description: IPWatchtower is a powerful and user-friendly IP and domain lookup tool that puts the world of internet information at your fingertips.
+israfilvau: https://github.com/tucommenceapousser/israfilvau - Description: None
+ISStress-Test: https://github.com/tucommenceapousser/ISStress-Test - Description: Internet Security tool that can stress test a site, programmed in Python. This tool uses keep-alive DoS to do that.
+IS_Stress-Test: https://github.com/tucommenceapousser/IS_Stress-Test - Description: Internet Security tool that can stress test a site, programmed in Python. This tool uses keep-alive DoS to do that.
+jargyle: https://github.com/tucommenceapousser/jargyle - Description: A complete SOCKS5 server
+javascript-obfuscator: https://github.com/tucommenceapousser/javascript-obfuscator - Description: A powerful obfuscator for JavaScript and Node.js
+Jeeves: https://github.com/tucommenceapousser/Jeeves - Description: Jeeves SQLI Finder
+JEx-Bo2t: https://github.com/tucommenceapousser/JEx-Bo2t - Description: None
+JiaTansSSHAgent: https://github.com/tucommenceapousser/JiaTansSSHAgent - Description: None
+jiraffe: https://github.com/tucommenceapousser/jiraffe - Description: One stop place for exploiting Jira instances in your proximity
+jsDAV: https://github.com/tucommenceapousser/jsDAV - Description: None
+jsfuck: https://github.com/tucommenceapousser/jsfuck - Description: Write any JavaScript with 6 Characters: []()!+
+jsogenerator: https://github.com/tucommenceapousser/jsogenerator - Description: auto create jso upload to pastesbin
+json-server: https://github.com/tucommenceapousser/json-server - Description: Get a full fake REST API with zero coding in less than 30 seconds (seriously)
+json5: https://github.com/tucommenceapousser/json5 - Description: JSON5 — JSON for Humans
+juniper-rce_cve-2023-36844: https://github.com/tucommenceapousser/juniper-rce_cve-2023-36844 - Description: None
+jwt-express-auth: https://github.com/tucommenceapousser/jwt-express-auth - Description: Starter kit to add JWT based auth to you app
+K-OTP-X: https://github.com/tucommenceapousser/K-OTP-X - Description: None
+kafka-ui: https://github.com/tucommenceapousser/kafka-ui - Description: Open-Source Web UI for Apache Kafka Management
+KARMA-DDoS: https://github.com/tucommenceapousser/KARMA-DDoS - Description: DDoS Script (DDoS Panel) with Multiple Bypass ( Cloudflare UAM,CAPTCHA,BFM,NOSEC / DDoS Guard / Google Shield / V Shield / Amazon / etc.. )
+karma_v2: https://github.com/tucommenceapousser/karma_v2 - Description: None
+kernel-exploit-factory: https://github.com/tucommenceapousser/kernel-exploit-factory - Description: Linux kernel CVE exploit analysis report and relative debug environment. You don't need to compile Linux kernel and configure your environment anymore. 
+KEV: https://github.com/tucommenceapousser/KEV - Description: Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google's Tsunami, Ostorlab's Asteroid and Bug Bounty programs.
+Key-Checker: https://github.com/tucommenceapousser/Key-Checker - Description: Go scripts for checking API key / access token validity
+Keylogger: https://github.com/tucommenceapousser/Keylogger - Description: Get Keyboard,Mouse,ScreenShot,Microphone Inputs from Target Computer and Send to your Mail.
+KingOfBugBountyTips: https://github.com/tucommenceapousser/KingOfBugBountyTips - Description: None
+kiterunner: https://github.com/tucommenceapousser/kiterunner - Description: Contextual Content Discovery Tool
+Kraken: https://github.com/tucommenceapousser/Kraken - Description: All-in-One Toolkit for BruteForce Attacks
+kumasia: https://github.com/tucommenceapousser/kumasia - Description: ./kumasia php simple backdoor
+kusanagi: https://github.com/tucommenceapousser/kusanagi - Description: Kusanagi is a bind and reverse shell payload generator with obfuscation and badchar support.
+L3MON: https://github.com/tucommenceapousser/L3MON - Description: None
+l3mon-Bind-apk-notes: https://github.com/tucommenceapousser/l3mon-Bind-apk-notes - Description: None
+L3MON-MOD: https://github.com/tucommenceapousser/L3MON-MOD - Description: None
+L3MON-Mod-Client: https://github.com/tucommenceapousser/L3MON-Mod-Client - Description: None
+LADB: https://github.com/tucommenceapousser/LADB - Description: A local ADB shell for Android!
+lambda-diffusers: https://github.com/tucommenceapousser/lambda-diffusers - Description: None
+langlangchain-assistant: https://github.com/tucommenceapousser/langlangchain-assistant - Description: None
+lara: https://github.com/tucommenceapousser/lara - Description: None
+LazyOwn: https://github.com/tucommenceapousser/LazyOwn - Description: Discover LazyOwn, the ultimate solution for automating the search and analysis of binaries with special permissions on both Linux and Windows systems. Our powerful tool simplifies pentesting, making it more efficient and effective. Watch this video to learn how LazyOwn can streamline your security assessments and enhance your cybersecurity toolkit.
+LEAKEY: https://github.com/tucommenceapousser/LEAKEY - Description: LEAKEY is a bash script which checks and validates for leaked credentials. The idea behind LEAKEY is to make it highly customizable and easy to add checks for new services.
+LeakPy: https://github.com/tucommenceapousser/LeakPy - Description: None
+LeakPyy: https://github.com/tucommenceapousser/LeakPyy - Description: LeakIX API Client/lib
+leap-ai-avatars: https://github.com/tucommenceapousser/leap-ai-avatars - Description: None
+Lemon: https://github.com/tucommenceapousser/Lemon - Description: Lemon is a User Interactive bash program to search for privilege escalation vectors on Linux in an automated fashion
+letItGo: https://github.com/tucommenceapousser/letItGo - Description: Enumerate and check domains for Azure tenants
+LFI-Payload-List: https://github.com/tucommenceapousser/LFI-Payload-List - Description: LFI Payloads List coolected from github repos
+LFIHunt: https://github.com/tucommenceapousser/LFIHunt - Description: None
+LFIHunt-1: https://github.com/tucommenceapousser/LFIHunt-1 - Description: Advanced Tool To Scan And Exploit Local File Inclusion (LFI) Vulnerabilities
+LFImap: https://github.com/tucommenceapousser/LFImap - Description: Local File Inclusion discovery and exploitation tool
+LFIProbeX: https://github.com/tucommenceapousser/LFIProbeX - Description: None
+LFIscanner: https://github.com/tucommenceapousser/LFIscanner - Description: Local File Inclusion (LFI) scanner.
+ligolo-mp: https://github.com/tucommenceapousser/ligolo-mp - Description: Multiplayer pivoting solution
+ligolo-ng: https://github.com/tucommenceapousser/ligolo-ng - Description: An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.
+linkedin-profile-scraper: https://github.com/tucommenceapousser/linkedin-profile-scraper - Description: 🕵️‍♂️  LinkedIn profile scraper returning structured profile data in JSON. 
+LinkedInDumper: https://github.com/tucommenceapousser/LinkedInDumper - Description: Python 3 script to dump company employees from LinkedIn API
+linux-wifi-hotspot: https://github.com/tucommenceapousser/linux-wifi-hotspot - Description: Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Similar to Windows 10). 
+linWinPwn: https://github.com/tucommenceapousser/linWinPwn - Description: linWinPwn is a bash script that automates a number of Active Directory Enumeration and Vulnerability checks
+livego: https://github.com/tucommenceapousser/livego - Description: live video streaming server in golang
+Lockphish: https://github.com/tucommenceapousser/Lockphish - Description: None
+Logo-generator: https://github.com/tucommenceapousser/Logo-generator - Description: Uses an AI create a good prompt to generate logo's using DALL-E. I made this for FourweekMBA so they have all the rights to the code. Please star :)
+LooneyPwner: https://github.com/tucommenceapousser/LooneyPwner - Description: Exploit tool for CVE-2023-4911, targeting the 'Looney Tunables' glibc vulnerability in various Linux distributions.
+Ludicrous: https://github.com/tucommenceapousser/Ludicrous - Description: The Ludicrous Web Proxy Site: Fast, Simple, Small. The flagship site of Ludicrous
+Luhns_Algorithmic_CreditCardChecking: https://github.com/tucommenceapousser/Luhns_Algorithmic_CreditCardChecking - Description: Simple Python program to check whether creditcard is a valid AMEX, VISA or Mastercard number
+LulzSec-kroketool: https://github.com/tucommenceapousser/LulzSec-kroketool - Description: LulzSec-kroketool enables the user to have a menu with the most important tools. But this tool not only allows you to have the most important tools but also to have the most important commands of each tool so that it is easier for the user.
+Lulzwiper-Ransomware: https://github.com/tucommenceapousser/Lulzwiper-Ransomware - Description: Lulzwiper Ransomware 2.0
+lumaapi-python: https://github.com/tucommenceapousser/lumaapi-python - Description: Python library/CLI for Luma API
+Luna-Proxy: https://github.com/tucommenceapousser/Luna-Proxy - Description: None
+LunaChatBot: https://github.com/tucommenceapousser/LunaChatBot - Description: None
+M0B-tool-v2: https://github.com/tucommenceapousser/M0B-tool-v2 - Description: None
+MadelineProto: https://github.com/tucommenceapousser/MadelineProto - Description: Async PHP client API for the telegram MTProto protocol
+mafiahacks: https://github.com/tucommenceapousser/mafiahacks - Description: The purpose of this tool is to automate the payload Creation Process. U can Create Payloads For All Types of OS in Seconds.
+malware-in-python: https://github.com/tucommenceapousser/malware-in-python - Description: Demo Attack
+MalwareRETools: https://github.com/tucommenceapousser/MalwareRETools - Description: A repo containing some tooling build to assist with reverse engineering malware samples
+mangen: https://github.com/tucommenceapousser/mangen - Description: None
+mantra: https://github.com/tucommenceapousser/mantra - Description: 「🔑」A tool used to hunt down API key leaks in JS files and pages
+MARIJUANA: https://github.com/tucommenceapousser/MARIJUANA - Description: None
+markdown-badges: https://github.com/tucommenceapousser/markdown-badges - Description: Badges for your personal developer branding, profile, and projects.
+marked: https://github.com/tucommenceapousser/marked - Description: A markdown parser and compiler. Built for speed.
+maskphish: https://github.com/tucommenceapousser/maskphish - Description: Introducing "URL Making Technology" to the world for the very FIRST TIME. Give a Mask to Phishing URL like a PRO.. A MUST have tool for Phishing.
+mass-bruter: https://github.com/tucommenceapousser/mass-bruter - Description: Mass bruteforce authentication of network protocols
+Mass-CVE-2023-28121: https://github.com/tucommenceapousser/Mass-CVE-2023-28121 - Description: CVE-2023-28121 -  WooCommerce Payments < 5.6.2 - Unauthenticated Privilege Escalation [ Mass Add Admin User ]  
+master-temp-number: https://github.com/tucommenceapousser/master-temp-number - Description: Receive SMS Online / Temporary Phone Number You can receive SMS online with the listed numbers From this tool .   You can use the numbers to sign up or verify for any services like Telegram, Facebook, Google, Gmail, WhatsApp, Viber, Line, WeChat, KakaoTalk etc. A usa fake number creater bot
+materials: https://github.com/tucommenceapousser/materials - Description: Bonus materials, exercises, and example projects for our Python tutorials
+maxfiles: https://github.com/tucommenceapousser/maxfiles - Description: Files for maxphisher
+MaxPhisher: https://github.com/tucommenceapousser/MaxPhisher - Description: None
+maxss: https://github.com/tucommenceapousser/maxss - Description: None
+Mbape-css-3d: https://github.com/tucommenceapousser/Mbape-css-3d - Description: None
+MCC: https://github.com/tucommenceapousser/MCC - Description:  A fool-proof bash script to clone MIFARE Classic card with a NFC reader 
+md2pdf: https://github.com/tucommenceapousser/md2pdf - Description: Markdown to PDF conversion tool
+MedusaPhisher: https://github.com/tucommenceapousser/MedusaPhisher - Description: A tool that creates phishing pages
+Metasploit: https://github.com/tucommenceapousser/Metasploit - Description: Install Metasploit Framework 6 in Termux and Kali Linux 
+metasploit-framework: https://github.com/tucommenceapousser/metasploit-framework - Description: Metasploit Framework
+metasploit_in_termux: https://github.com/tucommenceapousser/metasploit_in_termux - Description: Install Metasploit Framework 6 in Termux
+MHDDoS: https://github.com/tucommenceapousser/MHDDoS - Description: Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
+MicinWare-PHP-Ransomware: https://github.com/tucommenceapousser/MicinWare-PHP-Ransomware - Description: PHP Ransomware targeted at Web Server
+Mindmap: https://github.com/tucommenceapousser/Mindmap - Description: This repository will contain many mindmaps for cyber security technologies, methodologies, courses, and certifications in a tree structure to give brief details about them
+MiniGPT-4: https://github.com/tucommenceapousser/MiniGPT-4 - Description: None
+mip22: https://github.com/tucommenceapousser/mip22 - Description: :computer: :iphone: mip22 is a advanced phishing tool 
+Mister-Spy-V7: https://github.com/tucommenceapousser/Mister-Spy-V7 - Description: Last Bot Update V7
+Mitigating-Web-Shells: https://github.com/tucommenceapousser/Mitigating-Web-Shells - Description: Guidance for mitigation web shells. #nsacyber
+mitm: https://github.com/tucommenceapousser/mitm - Description: A simple yet effective python3 script to perform DNS spoofing via ARP poisoning
+mitm6: https://github.com/tucommenceapousser/mitm6 - Description: pwning IPv4 via IPv6
+MobinNet-RCE: https://github.com/tucommenceapousser/MobinNet-RCE - Description: [+] MobinNet Router- Remote Code Execution (Root)
+monsoon: https://github.com/tucommenceapousser/monsoon - Description: Fast HTTP enumerator
+Moriarty: https://github.com/tucommenceapousser/Moriarty - Description: None
+mosint: https://github.com/tucommenceapousser/mosint - Description: An automated e-mail OSINT tool
+moukthar: https://github.com/tucommenceapousser/moukthar - Description: Android remote administration tool
+msteams-dalle-2-image-generator-bot: https://github.com/tucommenceapousser/msteams-dalle-2-image-generator-bot - Description: None
+Mubert-Text-to-Music: https://github.com/tucommenceapousser/Mubert-Text-to-Music - Description: None
+mubert_mih_bot: https://github.com/tucommenceapousser/mubert_mih_bot - Description: None
+Multi-Finder: https://github.com/tucommenceapousser/Multi-Finder - Description: Multi Finder Website Tools
+my-images: https://github.com/tucommenceapousser/my-images - Description: None
+My-Nuclei-Templates: https://github.com/tucommenceapousser/My-Nuclei-Templates - Description: Nuclei Templates - Here you will find the templates I use while hunting 
+MYSNOWSIGHT: https://github.com/tucommenceapousser/MYSNOWSIGHT - Description: This is streamlit app where use to play with snowflake
+N2D-Simple-AI-Image-Generator-WebApp: https://github.com/tucommenceapousser/N2D-Simple-AI-Image-Generator-WebApp - Description: None
+NAMINT: https://github.com/tucommenceapousser/NAMINT - Description: A simple javascript tool to prepare possible name and login search patterns with links.
+narnia: https://github.com/tucommenceapousser/narnia - Description: :construction: EXPERIMENTAL :construction: Secure hidden service webserver
+nekros: https://github.com/tucommenceapousser/nekros - Description: NekRos is an Open-Source Ransomeware, with advanced Features, Which Looks Like Wannacry and Has C&C Server which can be Used to Retrive KEY
+NeoCat: https://github.com/tucommenceapousser/NeoCat - Description: NeoCat - NeoFetch Theme Pack
+neofetch-themes: https://github.com/tucommenceapousser/neofetch-themes - Description: Neofetch configs put into a convinient repository
+net-yt-video-dl: https://github.com/tucommenceapousser/net-yt-video-dl - Description: None
+NetAlertX: https://github.com/tucommenceapousser/NetAlertX - Description: 💻🔍 WIFI / LAN intruder detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
+netlify-statuskit: https://github.com/tucommenceapousser/netlify-statuskit - Description: None
+netlifystat: https://github.com/tucommenceapousser/netlifystat - Description: None
+NETMIKO: https://github.com/tucommenceapousser/NETMIKO - Description: None
+netscan: https://github.com/tucommenceapousser/netscan - Description: NetScan CLI is a command-line tool for retrieving and analyzing IP address information. It provides detailed subnet and organization data for given IP addresses using various online services.
+nexfil: https://github.com/tucommenceapousser/nexfil - Description: OSINT tool for finding profiles by username
+nim-shell: https://github.com/tucommenceapousser/nim-shell - Description: None
+nim-shello: https://github.com/tucommenceapousser/nim-shello - Description: Reverse shell that can bypass windows defender detection
+nim-shelm: https://github.com/tucommenceapousser/nim-shelm - Description: None
+node-bruteforce: https://github.com/tucommenceapousser/node-bruteforce - Description: None
+node-chatgpt-api: https://github.com/tucommenceapousser/node-chatgpt-api - Description: A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
+node-device-detector: https://github.com/tucommenceapousser/node-device-detector - Description: None
+node-dropmail: https://github.com/tucommenceapousser/node-dropmail - Description: 📧 dropmail.me api thingy for node
+node-git-server: https://github.com/tucommenceapousser/node-git-server - Description: None
+node-gtts: https://github.com/tucommenceapousser/node-gtts - Description: Google Text-to-Speech for NodeJS (Unofficial API)
+node-m3u8stream: https://github.com/tucommenceapousser/node-m3u8stream - Description: None
+node-msfrpc: https://github.com/tucommenceapousser/node-msfrpc - Description: None
+node-parallel-http: https://github.com/tucommenceapousser/node-parallel-http - Description: None
+node-pushover: https://github.com/tucommenceapousser/node-pushover - Description: None
+node-red-contrib-telegram: https://github.com/tucommenceapousser/node-red-contrib-telegram - Description: None
+node-redis: https://github.com/tucommenceapousser/node-redis - Description: Redis Node.js client
+node-telegram-bot-api: https://github.com/tucommenceapousser/node-telegram-bot-api - Description: None
+node-telegram-bot-api-middleware: https://github.com/tucommenceapousser/node-telegram-bot-api-middleware - Description: None
+NodeJS-Git-Server: https://github.com/tucommenceapousser/NodeJS-Git-Server - Description: None
+nodejs-goof: https://github.com/tucommenceapousser/nodejs-goof - Description: Super vulnerable todo list application
+noir: https://github.com/tucommenceapousser/noir - Description: ♠️ Noir is an attack surface detector form source code.
+Nojle: https://github.com/tucommenceapousser/Nojle - Description: The Advanced Automated Pen testing And Forensics Tool NoJle built using python it's for lazy hackers to automate most used Linux commands and services ,it also automates some network scanning like port scan , network enumeration, Vulnerability scanning and so on. This Tool can Automate some Digital Forensics practices to make a research on evidence
+nomore403: https://github.com/tucommenceapousser/nomore403 - Description: Tool to bypass 403/40X response codes.
+nordvp: https://github.com/tucommenceapousser/nordvp - Description: None
+NOTCOIN-FARM-BOT: https://github.com/tucommenceapousser/NOTCOIN-FARM-BOT - Description: notcoin bot notcoin farm bot notcoin farm scipt notcoin-free download-notcoin-farm-bot free-not coin notcoin-binance notcoin-bybit notcoin-desctop-software mining-notcoin notcoin-clicker telegram-bot-notcoin download-bot-telegram memefi-autofarm autofarm-notcoin memefi-bot-2024 free-memefi-bot farming-bot-notcoin how to get notcoin 2024 mining
+nova-qrcode: https://github.com/tucommenceapousser/nova-qrcode - Description: A QR Code Generator
+NucleiFuzzer: https://github.com/tucommenceapousser/NucleiFuzzer - Description: NucleiFuzzer is a Powerful Automation tool for detecting XSS, SQLi, SSRF, Open-Redirect, etc.. Vulnerabilities in Web Applications
+Nucleimonst3r: https://github.com/tucommenceapousser/Nucleimonst3r - Description: Nucleimonst3r is a powerful vulnerability scanner that can help Bug Bounty Hunters find low hanging fruit vulnerabilities for known CVEs and exploits but also gather all the technology running behind them for further investigation for a potential target.
+NucleiScanner: https://github.com/tucommenceapousser/NucleiScanner - Description: NucleiScanner is a Powerful Automation tool for detecting Unknown Vulnerabilities in the Web Applications
+O365-BITB: https://github.com/tucommenceapousser/O365-BITB - Description: None
+obfexec: https://github.com/tucommenceapousser/obfexec - Description: Merupakan sebuah encrypt obfuscate exec python3
+Obfucated: https://github.com/tucommenceapousser/Obfucated - Description: Obfuscated file python2 & python3 simple
+Obfuscate: https://github.com/tucommenceapousser/Obfuscate - Description: Script untuk mengcompile file python3 "OPEN SOURCE" 
+obfuscator-io-deobfuscator: https://github.com/tucommenceapousser/obfuscator-io-deobfuscator - Description: A deobfuscator for scripts obfuscated by Obfuscator.io
+ocrai: https://github.com/tucommenceapousser/ocrai - Description: OCR Scanner by Trhacknon. Trained models with fast variant of the "best" LSTM models + legacy models
+OCR_with_image: https://github.com/tucommenceapousser/OCR_with_image - Description: None
+OFFAT: https://github.com/tucommenceapousser/OFFAT - Description: The OWASP OFFAT tool autonomously assesses your API for prevalent vulnerabilities, though full compatibility with OAS v3 is pending. The project remains a work in progress, continuously evolving towards completion.
+Ominis-OSINT: https://github.com/tucommenceapousser/Ominis-OSINT - Description: This Python application is an OSINT (Open Source Intelligence) tool called "Ominis OSINT - Web Hunter." It performs online information gathering by querying Google for search results related to a user-inputted query. The tool extracts relevant information such as titles, URLs, and potential mentions of the query in the results.
+One-Liner-Collections: https://github.com/tucommenceapousser/One-Liner-Collections - Description: This Repositories contains list of One Liners with Descriptions and Installation requirements
+One-Liners: https://github.com/tucommenceapousser/One-Liners - Description: A collection of awesome one-liners for bug bounty hunting.
+oneliner-bugbounty: https://github.com/tucommenceapousser/oneliner-bugbounty - Description: None
+oneliner-bugbounty-1: https://github.com/tucommenceapousser/oneliner-bugbounty-1 - Description: oneliner commands for bug bounties
+Oneliner-Bugbounty2: https://github.com/tucommenceapousser/Oneliner-Bugbounty2 - Description: None
+OneListForAll: https://github.com/tucommenceapousser/OneListForAll - Description: Rockyou for web fuzzing
+OneManager-php: https://github.com/tucommenceapousser/OneManager-php - Description: An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/Vercel/Replit/SCF/FG/FC/CFC/PHP web hosting/VPS.
+OneShot: https://github.com/tucommenceapousser/OneShot - Description: Run WPS PIN attacks (Pixie Dust, online bruteforce, PIN prediction) without monitor mode with the wpa_supplicant
+oniongen-go: https://github.com/tucommenceapousser/oniongen-go - Description: None
+onionX: https://github.com/tucommenceapousser/onionX - Description: A bash script to easily run TOR hidden service on termux and most linux distros
+onion_host: https://github.com/tucommenceapousser/onion_host - Description: deploy your own new www tor*.onion in 10 seconds using 1 file only 
+online-compiler-flask: https://github.com/tucommenceapousser/online-compiler-flask - Description: Online C compiler application using Flask (developed by OpenGenus Intern, Devansh Thapa)
+open-webui: https://github.com/tucommenceapousser/open-webui - Description: User-friendly WebUI for LLMs (Formerly Ollama WebUI)
+openai-api-telegram-bot-public: https://github.com/tucommenceapousser/openai-api-telegram-bot-public - Description: None
+openai-key-scraper: https://github.com/tucommenceapousser/openai-key-scraper - Description: A Python script to scrape OpenAI API keys that are exposed on public Replit projects.
+OpenNetAdmin-RCE: https://github.com/tucommenceapousser/OpenNetAdmin-RCE - Description: OpenNetAdmin 8.5.14 <= 18.1.1 - Remote Command Execution
+openurlsgui: https://github.com/tucommenceapousser/openurlsgui - Description: urls opener via gui interface
+orgaweedze: https://github.com/tucommenceapousser/orgaweedze - Description: None
+OrionServer: https://github.com/tucommenceapousser/OrionServer - Description: An open-source, centralized HTTPS botnet
+OSINT-SPY: https://github.com/tucommenceapousser/OSINT-SPY - Description: Performs OSINT scan on email/domain/ip_address/organization using OSINT-SPY. It can be used by Data Miners, Infosec Researchers, Penetration Testers and cyber crime investigator in order to find deep information about their target. If you want to ask something please feel free to reach out to me at robotcoder@protonmail.com
+owa-honeypot: https://github.com/tucommenceapousser/owa-honeypot - Description: A basic flask based Outlook Web Honey pot
+p0wny-shell: https://github.com/tucommenceapousser/p0wny-shell - Description: Single-file PHP shell
+PacmanEatTheRich: https://github.com/tucommenceapousser/PacmanEatTheRich - Description: None
+pandora: https://github.com/tucommenceapousser/pandora - Description: -= Has features =-  =============== -DDoS -Web Scanning -Phone Hunter -CCTV Hunter -Deface -Mass Deface -Deface Maker -Bypass Maker -Auto Bypasser -Database Dump -Dorking -Admin Finder -Wifi Jammer -Executor -Simple Dirber -Trojan Maker -Mass Dork -Doxing / Osint ===============
+pass-generator: https://github.com/tucommenceapousser/pass-generator - Description: Generate wordlists for dictionary attacks
+PassMute: https://github.com/tucommenceapousser/PassMute - Description: PassMute - A multi featured Password Transmutation/Mutator Tool
+pdfcrack: https://github.com/tucommenceapousser/pdfcrack - Description: None
+penelope: https://github.com/tucommenceapousser/penelope - Description: Penelope Shell Handler
+Perl-Alfa-rce: https://github.com/tucommenceapousser/Perl-Alfa-rce - Description: Perl alfa rce python
+PetitPotam: https://github.com/tucommenceapousser/PetitPotam - Description: PoC tool to coerce Windows hosts to authenticate to other machines via MS-EFSRPC EfsRpcOpenFileRaw or other functions.
+Phishbait: https://github.com/tucommenceapousser/Phishbait - Description: 100% working Phishing Tool (38 websites) 
+PhoenixC2: https://github.com/tucommenceapousser/PhoenixC2 - Description: Command & Control-Framework created for collaboration in python3
+PhoneSploit-Pro: https://github.com/tucommenceapousser/PhoneSploit-Pro - Description: An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
+php-8.1.0-dev-backdoor-rce: https://github.com/tucommenceapousser/php-8.1.0-dev-backdoor-rce - Description: PHP 8.1.0-dev Backdoor System Shell Script
+php-8.1.0-dev-zerodium-rce: https://github.com/tucommenceapousser/php-8.1.0-dev-zerodium-rce - Description: A script that leverages 'zerodium' backdoor in PHP 8.1.0-dev via User-Agent.
+PHP-8.1.0-dev_RCE: https://github.com/tucommenceapousser/PHP-8.1.0-dev_RCE - Description: A proof of concept script for the RCE found in PHP version 8.1.0-dev, by invoking "User-Agentt: zerodiumsystem" backdoor placed in the PHP source code.
+PHP-8.1.0-dev_RCE-sh: https://github.com/tucommenceapousser/PHP-8.1.0-dev_RCE-sh - Description: None
+php-backdoors: https://github.com/tucommenceapousser/php-backdoors - Description: PHP shell backdoors list  ( collection )
+php-filemanager: https://github.com/tucommenceapousser/php-filemanager - Description: A fantastic mobile-friendly, web-based file manager, code editor, and file previewer for the web.  Can be used to create HTML/CSS/Javascript embeds for websites, a web-based file sharing portal, and much more.  MIT or LGPL, your choice.
+php-proxy-app: https://github.com/tucommenceapousser/php-proxy-app - Description: Web Proxy Application built on php-proxy library ready to be installed on your server
+php-qrcode: https://github.com/tucommenceapousser/php-qrcode - Description: A QR code generator and reader with a user friendly API. PHP 7.4+
+php-ransomware: https://github.com/tucommenceapousser/php-ransomware - Description: PHP ransomware that encrypts your files, as well as file and directory names.
+php-remote-storage: https://github.com/tucommenceapousser/php-remote-storage - Description: None
+phpass_crack: https://github.com/tucommenceapousser/phpass_crack - Description: None
+phpggc: https://github.com/tucommenceapousser/phpggc - Description: PHPGGC is a library of PHP unserialize() payloads along with a tool to generate them, from command line or programmatically. 
+php_filter_chain_generator: https://github.com/tucommenceapousser/php_filter_chain_generator - Description: None
+Phunter: https://github.com/tucommenceapousser/Phunter - Description: Phunter is an osint tool allowing you to find various information via a phone number 🔎📞
+PIKACHU-GAME-angular-js-: https://github.com/tucommenceapousser/PIKACHU-GAME-angular-js- - Description: It is a pokemon game, developed from angular js using bootstrap and other dependencies.  
+pikatrkn: https://github.com/tucommenceapousser/pikatrkn - Description: None
+Pingoor: https://github.com/tucommenceapousser/Pingoor - Description: None
+PingRAT: https://github.com/tucommenceapousser/PingRAT - Description: PingRAT secretly passes C2 traffic through firewalls using ICMP payloads.
+pingwha: https://github.com/tucommenceapousser/pingwha - Description: This tool pings and monitors the device, if the ping fails it will send you an alert via WhatsApp, it is necessary to register at twilio.com to create an account and get notifications with the API provided by Twilio
+pinky: https://github.com/tucommenceapousser/pinky - Description: None
+Pip-Intel: https://github.com/tucommenceapousser/Pip-Intel - Description: PIP-INTEL is an OSINT (Open Source Intelligence) tool designed using various open-source tools and pip packages.
+plandex: https://github.com/tucommenceapousser/plandex - Description: An AI coding engine for complex tasks
+Platypus: https://github.com/tucommenceapousser/Platypus - Description: :hammer: A modern multiple reverse shell sessions manager written in go
+player-ui: https://github.com/tucommenceapousser/player-ui - Description: player ui is a video player with a good ui,  can play video from the list, working buttons: auto play, loop, auto next, auto save and video player also has a video control: play, pause, reset, sound, speed, full screen, theater mode, timeline, video duration and so on
+PoC-in-GitHub: https://github.com/tucommenceapousser/PoC-in-GitHub - Description: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
+point-e: https://github.com/tucommenceapousser/point-e - Description: None
+porch-pirate: https://github.com/tucommenceapousser/porch-pirate - Description: Porch Pirate is the most comprehensive Postman recon / OSINT client and framework that facilitates the automated discovery and exploitation of API endpoints and secrets committed to workspaces, collections, requests, users and teams. Porch Pirate can be used as a client or be incorporated into your own applications.
+portScanner: https://github.com/tucommenceapousser/portScanner - Description: None
+postenum: https://github.com/tucommenceapousser/postenum - Description: Linux enumeration and privilege escalation tool.
+PrestaXSRF: https://github.com/tucommenceapousser/PrestaXSRF - Description: PrestaXSRF is a script designed to escalate a Cross-Site Scripting (XSS) vulnerability to Remote Code Execution (RCE) or other's criticals vulnerabilities in PrestaShop E-Commerce
+Priv8-Nuclei-Templates: https://github.com/tucommenceapousser/Priv8-Nuclei-Templates - Description: My Priv8 Nuclei Templates
+Private: https://github.com/tucommenceapousser/Private - Description: Its only for me bro..so by by bro
+Private-Nuclei-Templates: https://github.com/tucommenceapousser/Private-Nuclei-Templates - Description: None
+PrivEsc: https://github.com/tucommenceapousser/PrivEsc - Description: A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.
+probot: https://github.com/tucommenceapousser/probot - Description: 🤖 A framework for building GitHub Apps to automate and improve your workflow
+ProfileGuard: https://github.com/tucommenceapousser/ProfileGuard - Description: Turn on/off facebook profile guard
+project_GPT-4_codeX: https://github.com/tucommenceapousser/project_GPT-4_codeX - Description: This is a text generation web application that utilizes OpenAI's GPT-4 API to generate natural language text based on user input.
+project_openai_codex: https://github.com/tucommenceapousser/project_openai_codex - Description: Build and Deploy Your Own ChatGPT AI Application That Will Help You Code
+promptist: https://github.com/tucommenceapousser/promptist - Description: None
+promptmap: https://github.com/tucommenceapousser/promptmap - Description: automatically tests prompt injection attacks on ChatGPT instances
+proot-distro: https://github.com/tucommenceapousser/proot-distro - Description: An utility for managing installations of the Linux distributions in Termux.
+proton-python-client: https://github.com/tucommenceapousser/proton-python-client - Description: Python Proton client module
+protonmail-api: https://github.com/tucommenceapousser/protonmail-api - Description: ✉ Node.js API for ProtonMail
+ProtOSINT: https://github.com/tucommenceapousser/ProtOSINT - Description: ProtOSINT is a Python script that helps you investigate Protonmail accounts and ProtonVPN IP addresses
+prowler: https://github.com/tucommenceapousser/prowler - Description: Prowler is an Open Source Security tool for AWS, Azure, GCP and Kubernetes to do security assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, GXP, Well-Architected Security, ENS and more
+proxgrab: https://github.com/tucommenceapousser/proxgrab - Description: None
+proxi: https://github.com/tucommenceapousser/proxi - Description: None
+proxine: https://github.com/tucommenceapousser/proxine - Description: Fresh proxies in every 2hours.
+Proxy-Grabber: https://github.com/tucommenceapousser/Proxy-Grabber - Description: A Tools for Grabbing Free Proxy + Auto Check Live
+proxy-list: https://github.com/tucommenceapousser/proxy-list - Description: An automatic updated list of free SOCKS4, SOCKS5, HTTP & HTTPS proxies in JSON, TXT, CSV, XML & YAML format. Proxies are online at the time of testing & updated every hour. Geolocation & detection status is also available.
+proxybot: https://github.com/tucommenceapousser/proxybot - Description: Simple Proxy Bot for Telegram
+ProxyBot-1: https://github.com/tucommenceapousser/ProxyBot-1 - Description: Ready to deploy SOCKS5 server and Telegram Bot with embedded database to store users credentials.
+proxybot_php: https://github.com/tucommenceapousser/proxybot_php - Description: scrape sites for proxies, multi-threaded anonymity and proxy checking in php
+ProxyBroker: https://github.com/tucommenceapousser/ProxyBroker - Description: None
+ProxyFucker: https://github.com/tucommenceapousser/ProxyFucker - Description: None
+PSA: https://github.com/tucommenceapousser/PSA - Description: Home of the Privacy Security Anonymity (aka PSA) community.
+pseudo-python: https://github.com/tucommenceapousser/pseudo-python - Description: a restricted python to javascript / c# / go / ruby  compiler
+Pseudofy: https://github.com/tucommenceapousser/Pseudofy - Description: None
+Psi: https://github.com/tucommenceapousser/Psi - Description: Hack Camera and Location through link.
+Psiw: https://github.com/tucommenceapousser/Psiw - Description: Hack Camera and Location through link.
+Psiwork: https://github.com/tucommenceapousser/Psiwork - Description: Hack Camera and Location through link.
+psqli-pro: https://github.com/tucommenceapousser/psqli-pro - Description: None
+pterm: https://github.com/tucommenceapousser/pterm - Description: ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-platform compatible.
+PT_HaT_bot: https://github.com/tucommenceapousser/PT_HaT_bot - Description: Pentest HaT bot
+puff: https://github.com/tucommenceapousser/puff - Description: Clientside vulnerability / reflected xss fuzzer
+puppeteer: https://github.com/tucommenceapousser/puppeteer - Description: None
+putanginamo: https://github.com/tucommenceapousser/putanginamo - Description: None
+Pwdb-Public: https://github.com/tucommenceapousser/Pwdb-Public - Description: A collection of all the data i could extract from 1 billion leaked credentials from internet.
+Pwn: https://github.com/tucommenceapousser/Pwn - Description: Advanced exploits that I wrote for Pwn2Own competitions and other occasions
+pwnkit-exploit: https://github.com/tucommenceapousser/pwnkit-exploit - Description: CVE-2021-4034 POC exploit
+PwnXSS: https://github.com/tucommenceapousser/PwnXSS - Description: PwnXSS: Vulnerability (XSS) scanner exploit
+Pyai: https://github.com/tucommenceapousser/Pyai - Description: None
+PyCodeInjection: https://github.com/tucommenceapousser/PyCodeInjection - Description: Automated Python Code Injection Tool
+pycrack: https://github.com/tucommenceapousser/pycrack - Description: Advanced Password Cracking Tool with support for Bruteforce Attacks, Dictionary Attacks, Random Attacks. This tool is capable of cracking files and hashes like PDF, Zip, MS Excel, MS World, MS Power Point, MD5, Sha1, Sha224, Sha256, Sha384, Sha512, Blake2B, Blake2S.
+PYcrypt: https://github.com/tucommenceapousser/PYcrypt - Description: None
+pyddos: https://github.com/tucommenceapousser/pyddos - Description: None
+Pyfuscator: https://github.com/tucommenceapousser/Pyfuscator - Description: Pyfuscator is a Python tool designed to obfuscate Python scripts by encoding and encrypting them. It allows you to transform your Python code into an obfuscated form, which can help in hiding the logic of the script and potentially evade basic static analysis.
+PyInductor: https://github.com/tucommenceapousser/PyInductor - Description: A Python library for analyzing/designing helical wire inductors
+pymarsh: https://github.com/tucommenceapousser/pymarsh - Description: None
+pymarshal: https://github.com/tucommenceapousser/pymarshal - Description: Compile marshal python script
+pymarshall: https://github.com/tucommenceapousser/pymarshall - Description: Compile marshal python script
+pyradm: https://github.com/tucommenceapousser/pyradm - Description: 🔮 Python Remote administration tool via telegram
+PyRoxy: https://github.com/tucommenceapousser/PyRoxy - Description: None
+PySecretSOCKS: https://github.com/tucommenceapousser/PySecretSOCKS - Description: A python socks server for tunneling a connection over another channel
+PyShell: https://github.com/tucommenceapousser/PyShell - Description: Multiplatform Python WebShell
+PyShing: https://github.com/tucommenceapousser/PyShing - Description: PyShing is a powerful phishing tool which is built of Flask and uses Ngrok for tunneling
+pyshingg: https://github.com/tucommenceapousser/pyshingg - Description: [Phishing Tool]
+PySilon-malware: https://github.com/tucommenceapousser/PySilon-malware - Description: Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.
+PySnapStories: https://github.com/tucommenceapousser/PySnapStories - Description: A Python script to download public Snapchat user stories from verified accounts, subjects and Map events.
+python-cc-num-gen: https://github.com/tucommenceapousser/python-cc-num-gen - Description: CCNumGen is a Python 3.9+ class that uses the Luhn algorithm to generate theoretically valid credit card numbers with CVV and expiration dates. 
+python-online-compiler: https://github.com/tucommenceapousser/python-online-compiler - Description: A web application to execute code online.
+python-osint: https://github.com/tucommenceapousser/python-osint - Description: Python pour la sécurité - School project
+python-payload: https://github.com/tucommenceapousser/python-payload - Description: This is the python payload
+Python-Rootkit: https://github.com/tucommenceapousser/Python-Rootkit - Description: A simple Python-Rootkit script
+python-script-to-crack-pdf: https://github.com/tucommenceapousser/python-script-to-crack-pdf - Description: None
+python-telegram-bot: https://github.com/tucommenceapousser/python-telegram-bot - Description: We have made you a wrapper you can't refuse
+Python-Tools: https://github.com/tucommenceapousser/Python-Tools - Description: Nothing Like 127.0.0.1
+PythonRAT: https://github.com/tucommenceapousser/PythonRAT - Description: None
+PyTube: https://github.com/tucommenceapousser/PyTube - Description: Youtube Download Manager
+pytube3: https://github.com/tucommenceapousser/pytube3 - Description: A lightweight, dependency-free Python 3 library (and command-line utility) for downloading YouTube Videos.
+pytutomcroom: https://github.com/tucommenceapousser/pytutomcroom - Description: Python flask tuto and chatbot for configure, use, wordpress
+QR-Code-Compromise: https://github.com/tucommenceapousser/QR-Code-Compromise - Description: Can a QR scanner compromise your system
+qr-scanner: https://github.com/tucommenceapousser/qr-scanner - Description: Lightweight Javascript QR Code Scanner
+qr-tracker: https://github.com/tucommenceapousser/qr-tracker - Description: Simple flask app for generating and tracking qr codes
+qr2unicode: https://github.com/tucommenceapousser/qr2unicode - Description: Crappy Python code to render a QR code as "plaintext" with Unicode
+QuickXSS: https://github.com/tucommenceapousser/QuickXSS - Description: Automating XSS using Bash
+r4ven: https://github.com/tucommenceapousser/r4ven - Description: Track the IP address and GPS location of the user's smartphone or PC and capture a picture of the target, along with device information.
+Rafel-Rat: https://github.com/tucommenceapousser/Rafel-Rat - Description: None
+Ransomware: https://github.com/tucommenceapousser/Ransomware - Description: Ransomwares Collection. Don't Run Them on Your Device. 
+ransomware_python: https://github.com/tucommenceapousser/ransomware_python - Description: None
+rapga: https://github.com/tucommenceapousser/rapga - Description: None
+rapgame: https://github.com/tucommenceapousser/rapgame - Description: None
+rapgenaii: https://github.com/tucommenceapousser/rapgenaii - Description: None
+rapidscan: https://github.com/tucommenceapousser/rapidscan - Description: :new: The Multi-Tool Web Vulnerability Scanner. 
+RaptorWebPanel: https://github.com/tucommenceapousser/RaptorWebPanel - Description: None
+RaspAP-CVE-2022-39986-PoC: https://github.com/tucommenceapousser/RaspAP-CVE-2022-39986-PoC - Description: CVE-2022-39986 PoC
+RAT-Hodin-v2.9: https://github.com/tucommenceapousser/RAT-Hodin-v2.9 - Description: Remote Administration Tool for Linux
+RCECODE: https://github.com/tucommenceapousser/RCECODE - Description: RCECODE is a code which has code to exploit the RCE via package dependency confusion 
+rcX: https://github.com/tucommenceapousser/rcX - Description: A powerful reverse shell generator
+rcxX: https://github.com/tucommenceapousser/rcxX - Description: A powerful reverse shell generator
+react-chat: https://github.com/tucommenceapousser/react-chat - Description: None
+react-login-with-backend: https://github.com/tucommenceapousser/react-login-with-backend - Description: easy-to-study
+readme-md-generator: https://github.com/tucommenceapousser/readme-md-generator - Description: 📄 CLI that generates beautiful README.md files
+recaptcha-phish: https://github.com/tucommenceapousser/recaptcha-phish - Description: Phishing with a fake reCAPTCHA
+receive-sms-online: https://github.com/tucommenceapousser/receive-sms-online - Description: receive sms online for free to verify any account using the provided phone numbers on the website
+reconftw: https://github.com/tucommenceapousser/reconftw - Description: reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
+redir: https://github.com/tucommenceapousser/redir - Description: None
+reGeorg: https://github.com/tucommenceapousser/reGeorg - Description: The successor to reDuh, pwn a bastion webserver and create SOCKS proxies through the DMZ. Pivot and pwn.
+reinschauer: https://github.com/tucommenceapousser/reinschauer - Description: it is very good
+rembg: https://github.com/tucommenceapousser/rembg - Description: Rembg is a tool to remove images background
+remove-background-telegram-bot: https://github.com/tucommenceapousser/remove-background-telegram-bot - Description: Telegram Bot to Remove Image Background
+reosploit: https://github.com/tucommenceapousser/reosploit - Description: A Tool that Finds, Enumerates, and Exploits Reolink Cameras.
+Repl-PingR: https://github.com/tucommenceapousser/Repl-PingR - Description: Pinger for repl.co websites. Needs Testing whether if it works 24*7
+Repl-Scraper: https://github.com/tucommenceapousser/Repl-Scraper - Description: A replit.com scraper, designed to grab discord tokens. Made in Rust.
+repl.it-api: https://github.com/tucommenceapousser/repl.it-api - Description: A Node.js client for creating projects and executing code on Repl.it.
+repl.it-scraper: https://github.com/tucommenceapousser/repl.it-scraper - Description: Repl.it Scraper
+repl.it-scrapergo: https://github.com/tucommenceapousser/repl.it-scrapergo - Description: made by cy but he deleted it and we are cyK
+replit-auth-html: https://github.com/tucommenceapousser/replit-auth-html - Description: HTML easy authentication
+reqable-app: https://github.com/tucommenceapousser/reqable-app - Description: Code source httpcanary --> https://github.com/R4GN4R0K-SEC/HttpCanary
+Responder: https://github.com/tucommenceapousser/Responder - Description: Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication. 
+reverse-shell-generator: https://github.com/tucommenceapousser/reverse-shell-generator - Description: Web-based reverse shell generator
+reverse-shell-generatorr: https://github.com/tucommenceapousser/reverse-shell-generatorr - Description: A tool to generate reverse shells.
+Reverse-Shell-Manager: https://github.com/tucommenceapousser/Reverse-Shell-Manager - Description: :hammer: A multiple reverse shell session/client manager via terminal
+reverse_image_search_bot: https://github.com/tucommenceapousser/reverse_image_search_bot - Description: Image Reverse Search Bot🕵️‍♂️🔍: A handy Telegram bot for reverse image searches on images, videos, and GIFs, supporting multiple search engines. Unleash the power of reverse searching! 🚀🤖
+RevoltShing: https://github.com/tucommenceapousser/RevoltShing - Description: FRAMEWORK REVOLTSHING v.2 . HTTP SERVER FOR PHISHING
+revR: https://github.com/tucommenceapousser/revR - Description: Python 2.7
+rich-click: https://github.com/tucommenceapousser/rich-click - Description: Format click help output nicely with rich.
+RichFilemanager: https://github.com/tucommenceapousser/RichFilemanager - Description: An open-source file manager. Up-to-date for PHP, Java, ASHX, ASP, NodeJs & Python 3 Flask. Contributions are welcome!
+riffusion: https://github.com/tucommenceapousser/riffusion - Description: None
+riffusion-app: https://github.com/tucommenceapousser/riffusion-app - Description: None
+robeth_bot: https://github.com/tucommenceapousser/robeth_bot - Description: This is an ad click bot to help beat Telegram crypto miners 🙃
+rocket-lms-shell-upload-auto-register: https://github.com/tucommenceapousser/rocket-lms-shell-upload-auto-register - Description: Python 2.7
+Ropdump: https://github.com/tucommenceapousser/Ropdump - Description: ROPDump is a command-line tool designed to analyze binary executables for potential Return-Oriented Programming (ROP) gadgets, buffer overflow vulnerabilities, and memory leaks.
+roxysploit: https://github.com/tucommenceapousser/roxysploit - Description: A Hackers framework
+Rsf-Priv8: https://github.com/tucommenceapousser/Rsf-Priv8 - Description: This tools are very stronge.this tools are scan website all direcotry and scan all php file..any shell are detect in this tools.
+Rudrastra: https://github.com/tucommenceapousser/Rudrastra - Description: Make a Fake wireless access point  aka Evil Twin....Easily!!
+ruler: https://github.com/tucommenceapousser/ruler - Description: A tool to abuse Exchange services
+RunRun: https://github.com/tucommenceapousser/RunRun - Description: None
+SAML2Spray: https://github.com/tucommenceapousser/SAML2Spray - Description: Python Script for SAML2 Authentication Passwordspray
+sanae: https://github.com/tucommenceapousser/sanae - Description: A PHP-CLI script for dorking Google from LibreX.
+SCANNER-INURLBR: https://github.com/tucommenceapousser/SCANNER-INURLBR - Description: Advanced search in search engines, enables analysis provided to exploit GET / POST capturing emails & urls, with an internal custom validation junction for each target / url found.
+SCANter: https://github.com/tucommenceapousser/SCANter - Description: Websites Vulnerability Scanner 
+scissors-express: https://github.com/tucommenceapousser/scissors-express - Description: Scissors is a URL shortening app built using Node and ExpressJS that offers users a variety of useful features. With Scissors, users can shorten URLs and generate custom URLs with their own domain name. Additionally, users can create QR codes for their shortened URLs to use in their promotional materials or on their website.
+scrape: https://github.com/tucommenceapousser/scrape - Description: CLI utility to scrape emails from websites
+scraper-chatgpt-plugin: https://github.com/tucommenceapousser/scraper-chatgpt-plugin - Description: None
+Search-Engines-Scraper: https://github.com/tucommenceapousser/Search-Engines-Scraper - Description: None
+securedrop: https://github.com/tucommenceapousser/securedrop - Description: GitHub repository for the SecureDrop whistleblower platform. Do not submit tips here!
+See-SURF: https://github.com/tucommenceapousser/See-SURF - Description: Python based scanner to find potential SSRF parameters
+SharkPhisher: https://github.com/tucommenceapousser/SharkPhisher - Description: A Advance Phishing OTP Bypass Tool
+Shazam-clone_1.0: https://github.com/tucommenceapousser/Shazam-clone_1.0 - Description: None
+shell-backdoor: https://github.com/tucommenceapousser/shell-backdoor - Description: all shell backdoor in the world
+shellback: https://github.com/tucommenceapousser/shellback - Description: Reverse shell generator
+shellcode: https://github.com/tucommenceapousser/shellcode - Description: This is a Simple reg Backdoor for Windows shell Hacking. You can fully compromise the target machine with this TOOL . For Advance backdoor with a dropper Contact ME.
+shellfind: https://github.com/tucommenceapousser/shellfind - Description: A Simple Tool to Find Shells and Some Interesting Endpoints in Websites 
+shellfinder: https://github.com/tucommenceapousser/shellfinder - Description: A Simple Tool to Find Shells and Some Interesting Endpoints in Websites 
+ShellValley: https://github.com/tucommenceapousser/ShellValley - Description: ShellValley is a user-friendly reverse shell generator tool, specially designed for CTF players who prefer to stay within their terminal while generating reverse shells swiftly.
+shieldsup: https://github.com/tucommenceapousser/shieldsup - Description: Shieldsup Scanner is a robust vulnerability scanner with an integrated bug tracker. It simplifies the tracking and fixing of vulnerabilities across your systems. By combining naabu port scanning and nuclei vulnerability scanning, Shieldsup Scanner identifies more vulnerabilities and covers a broader range of targets than nuclei alone.
+shodan-dorks: https://github.com/tucommenceapousser/shodan-dorks - Description: Here are the most interesting Shodan dorks (according to me)
+Shodan-Dorkss: https://github.com/tucommenceapousser/Shodan-Dorkss - Description: a curated list of shodan dorks for finding sensitive data in shodan.io
+shodan-python: https://github.com/tucommenceapousser/shodan-python - Description: None
+shortener: https://github.com/tucommenceapousser/shortener - Description: None
+shtest: https://github.com/tucommenceapousser/shtest - Description: Simple shellcode testing tool.
+ShuSSH: https://github.com/tucommenceapousser/ShuSSH - Description: An ssh chat server
+sicat: https://github.com/tucommenceapousser/sicat - Description: The useful exploit finder
+simple-voice-changer: https://github.com/tucommenceapousser/simple-voice-changer - Description: Simple audio editor in Javascript - Simple Voice Changer allows you to change the voice of an audio file or recording quickly and easily: choose an audio file, or register you, and you can edit and save your changes!
+Simple-XSS: https://github.com/tucommenceapousser/Simple-XSS - Description: Simple-XSS is a multiplatform cross-site scripting (XSS) vulnerability exploitation tool.
+SimpleGPT_Assist: https://github.com/tucommenceapousser/SimpleGPT_Assist - Description: None
+SimpleVenom: https://github.com/tucommenceapousser/SimpleVenom - Description: None
+simpw: https://github.com/tucommenceapousser/simpw - Description: None
+SLAE: https://github.com/tucommenceapousser/SLAE - Description: SecurityTube Linux Assembly Expert x86 Exam
+slimass: https://github.com/tucommenceapousser/slimass - Description: slimass
+SmartDork: https://github.com/tucommenceapousser/SmartDork - Description: SmartDork is a powerful tool that leverages the DorkGPT API to perform intelligent searches based on user queries. It allows you to interact with the DorkGPT API and retrieve search results in a user-friendly manner.
+sms: https://github.com/tucommenceapousser/sms - Description: None
+Sms-Bomb: https://github.com/tucommenceapousser/Sms-Bomb - Description: This tool named "Sms-Bomb" is mainly use to prank friends with this ,  All working apis are present in the script , If you do any illegal activites through this script we are not responsible 
+sms-sender: https://github.com/tucommenceapousser/sms-sender - Description: This script in python allows to send messages anonymously
+smsend: https://github.com/tucommenceapousser/smsend - Description: None
+smsham: https://github.com/tucommenceapousser/smsham - Description: None
+SMShell: https://github.com/tucommenceapousser/SMShell - Description: PoC for a SMS-based shell. Send commands and receive responses over SMS from mobile broadband capable computers
+Sn1per: https://github.com/tucommenceapousser/Sn1per - Description: Attack Surface Management Platform
+snallygaster: https://github.com/tucommenceapousser/snallygaster - Description: Tool to scan for secret files on HTTP servers
+snap-camera-server: https://github.com/tucommenceapousser/snap-camera-server - Description: Snap Camera Server gives access to all Snap Lenses after the shutdown on January 25, 2023.
+snap-map-private-api: https://github.com/tucommenceapousser/snap-map-private-api - Description: Node.js wrapper for Snap Map's private API
+Snap-Scraper: https://github.com/tucommenceapousser/Snap-Scraper - Description: Snap Scraper enables users to download media uploaded to Snapchat's Snap Map using a set of latitude and longitude coordinates.
+snapchat-dl: https://github.com/tucommenceapousser/snapchat-dl - Description: Snapchat Public Story Downloader
+snapchat-map-scraper: https://github.com/tucommenceapousser/snapchat-map-scraper - Description: None
+snapchat-share: https://github.com/tucommenceapousser/snapchat-share - Description: Create your own shares for Snapchat, similar to Spotify's implementation.
+snapcrack: https://github.com/tucommenceapousser/snapcrack - Description: API-Based Snapchat Brute-Force Tool [educational purposes only :]
+SnapCrackk: https://github.com/tucommenceapousser/SnapCrackk - Description: THIS POC NO LONGER WORKS WITH THE NEW SNAPCHAT API
+snare: https://github.com/tucommenceapousser/snare - Description: Super Next generation Advanced Reactive honEypot
+snetra: https://github.com/tucommenceapousser/snetra - Description: None
+Social-Media-OSINT-Tools-Collection: https://github.com/tucommenceapousser/Social-Media-OSINT-Tools-Collection - Description: A collection of most useful osint tools for SOCINT.
+socks5_list: https://github.com/tucommenceapousser/socks5_list - Description: Auto-updated SOCKS5 proxy list + proxies for Telegram
+some-tweak-to-hide-jwt-payload-values: https://github.com/tucommenceapousser/some-tweak-to-hide-jwt-payload-values - Description: a handful of tweaks and ideas to safeguard the JWT payload
+space-custom-apps: https://github.com/tucommenceapousser/space-custom-apps - Description: Custom Spacefile templates for Deta Space
+SpamBot: https://github.com/tucommenceapousser/SpamBot - Description: None
+spammer: https://github.com/tucommenceapousser/spammer - Description: For Spamming | BOT (Spam anywhere) or in Social Media Comment Section! 
+Spoof_AnyMail: https://github.com/tucommenceapousser/Spoof_AnyMail - Description: Most Powerful Send Fake Mail Using Any Mail I'd undetectable
+Spotify-API-template: https://github.com/tucommenceapousser/Spotify-API-template - Description: A template to start using Spotify's API, and access to a token using an id and a secret.
+spotify-downloader: https://github.com/tucommenceapousser/spotify-downloader - Description: Mengunduh lagu dari aplikasi spotify
+spotify_profile_monitor: https://github.com/tucommenceapousser/spotify_profile_monitor - Description: Real-time tracking of Spotify users activities and profile changes
+Spray365: https://github.com/tucommenceapousser/Spray365 - Description: Spray365 makes spraying Microsoft accounts (Office 365 / Azure AD) easy through its customizable two-step password spraying approach. The built-in execution plan features options that attempt to bypass Azure Smart Lockout and insecure conditional access policies.
+SpringShell_0-day: https://github.com/tucommenceapousser/SpringShell_0-day - Description: Spring Core RCE 0-day Vulnerability (https://share.vx-underground.org/)
+SQLiDetector: https://github.com/tucommenceapousser/SQLiDetector - Description: None
+SqliSniper: https://github.com/tucommenceapousser/SqliSniper - Description: Advanced Time-based Blind SQL Injection fuzzer for HTTP Headers
+sqliweb: https://github.com/tucommenceapousser/sqliweb - Description: None
+sqliweb-finder: https://github.com/tucommenceapousser/sqliweb-finder - Description: None
+SQLMutant: https://github.com/tucommenceapousser/SQLMutant - Description: SQLMutant is a comprehensive SQL injection testing tool that provides several features to test for SQL injection vulnerabilities in web applications, uses various techniques to detect vulnerabilities, including pattern matching, error analysis, and timing attacks. The integration of Waybackurls and Arjun allows the tool to find additional 
+squarephish: https://github.com/tucommenceapousser/squarephish - Description: None
+ssh-chat: https://github.com/tucommenceapousser/ssh-chat - Description: Chat over SSH.
+SSH-Snake: https://github.com/tucommenceapousser/SSH-Snake - Description: SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
+ssl: https://github.com/tucommenceapousser/ssl - Description: A CLI Tool for Extracting Server Ownership Clues from SSL/TLS Certificates
+sslstrip: https://github.com/tucommenceapousser/sslstrip - Description: A tool for exploiting Moxie Marlinspike's SSL "stripping" attack.
+ssl_explorer: https://github.com/tucommenceapousser/ssl_explorer - Description: A CLI Tool for Extracting Server Ownership Clues from SSL/TLS Certificates
+ssrf-exploit: https://github.com/tucommenceapousser/ssrf-exploit - Description: an exploit of Server-side request forgery (SSRF)
+stable-diffusion-videos: https://github.com/tucommenceapousser/stable-diffusion-videos - Description: None
+stablediffusion: https://github.com/tucommenceapousser/stablediffusion - Description: None
+Stardox: https://github.com/tucommenceapousser/Stardox - Description: Github stargazers information gathering tool
+SteaLinG: https://github.com/tucommenceapousser/SteaLinG - Description: The SteaLinG  is an open-source penetration testing framework designed for social engineering 
+Stealph-botnet: https://github.com/tucommenceapousser/Stealph-botnet - Description: Stealph-botnet its a simpel botnet i code this for fun
+Stitch: https://github.com/tucommenceapousser/Stitch - Description: Python Remote Administration Tool (RAT)
+Storm-Breaker: https://github.com/tucommenceapousser/Storm-Breaker - Description: Social engineering tool [Access Webcam & Microphone  & Location Finder] With {Py,JS,PHP}
+StormLikes: https://github.com/tucommenceapousser/StormLikes - Description: None
+streaming-text-generation: https://github.com/tucommenceapousser/streaming-text-generation - Description: None
+streamlit: https://github.com/tucommenceapousser/streamlit - Description: None
+Streamlit-Authenticator: https://github.com/tucommenceapousser/Streamlit-Authenticator - Description: A secure authentication module to validate user credentials in a Streamlit application.
+streamlit-example: https://github.com/tucommenceapousser/streamlit-example - Description: Example Streamlit app that you can fork to test out share.streamlit.io
+streamlit-h3: https://github.com/tucommenceapousser/streamlit-h3 - Description: Demo of H3 in streamlit
+streamlit-video-chat-example: https://github.com/tucommenceapousser/streamlit-video-chat-example - Description: Video chat apps with computer vision filters built on top of Streamlit
+streamlit-webrtc: https://github.com/tucommenceapousser/streamlit-webrtc - Description: Real-time video and audio streams over the network, with Streamlit.
+streamlithat: https://github.com/tucommenceapousser/streamlithat - Description: None
+streamlit_freecodecamp: https://github.com/tucommenceapousser/streamlit_freecodecamp - Description: Build 12 Data Apps in Python with Streamlit
+StressBot: https://github.com/tucommenceapousser/StressBot - Description: None
+stytch-replit-email-magic-links-react-ui: https://github.com/tucommenceapousser/stytch-replit-email-magic-links-react-ui - Description: Passwordless login using email magic links powered by Stytch in a React.js applicaiton.
+stytch-replit-sms-otp-react-ui: https://github.com/tucommenceapousser/stytch-replit-sms-otp-react-ui - Description: Passwordless login using SMS passcodes (OTP) powered by Stytch in a React.js applicaiton.
+Sub-Ringan-Framework: https://github.com/tucommenceapousser/Sub-Ringan-Framework - Description: Tool for automate bug hunting process 🔍 --> 🍭
+sub404: https://github.com/tucommenceapousser/sub404 - Description: None
+subdomain: https://github.com/tucommenceapousser/subdomain - Description: None
+subdover: https://github.com/tucommenceapousser/subdover - Description: None
+SubEvil: https://github.com/tucommenceapousser/SubEvil - Description: None
+SubEvilx: https://github.com/tucommenceapousser/SubEvilx - Description: SubEvil is an advanced open source intelligence framework (OSINT) for grouping subdomains.
+Subhunter: https://github.com/tucommenceapousser/Subhunter - Description: A fast subdomain takeover tool
+Subrake: https://github.com/tucommenceapousser/Subrake - Description: None
+subshell: https://github.com/tucommenceapousser/subshell - Description: SubShell is a python command shell used to control and execute commands through HTTP requests to a webshell. SubShell acts as the interface to the remote webshells.
+Subtitles-generator: https://github.com/tucommenceapousser/Subtitles-generator - Description: generates transcript for video from link
+SUB_BRUTER: https://github.com/tucommenceapousser/SUB_BRUTER - Description: None
+sucuri-cloudproxy-cookie: https://github.com/tucommenceapousser/sucuri-cloudproxy-cookie - Description: Script to bypass sucuri protection on websites and obtain the cookie
+Sudomy: https://github.com/tucommenceapousser/Sudomy - Description: Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing automated reconnaissance (recon) for bug hunting / pentesting
+SUID3NUM: https://github.com/tucommenceapousser/SUID3NUM - Description: A standalone python script which utilizes python's built-in modules to enumerate SUID binaries, separate default binaries from custom binaries, cross-match those with bins in GTFO Bin's repository & auto-exploit those, all with colors! ( ͡~ ͜ʖ ͡°)
+Supernova: https://github.com/tucommenceapousser/Supernova - Description: Real fucking shellcode encryptor & obfuscator tool
+suroot: https://github.com/tucommenceapousser/suroot - Description: None
+svgo: https://github.com/tucommenceapousser/svgo - Description: ⚙️ Node.js tool for optimizing SVG files
+swarm: https://github.com/tucommenceapousser/swarm - Description: Formerly known as axiom, swarm is the next generation of distributed cloud scanning and attack surface monitoring.
+SwiftLocation: https://github.com/tucommenceapousser/SwiftLocation - Description: 🛰 CoreLocation Made Easy - Efficient & Easy Location Tracker, IP Location, Gecoder, Geofence, Autocomplete, Beacon Ranging, Broadcaster and Visits Monitoring
+SwiftyGPT: https://github.com/tucommenceapousser/SwiftyGPT - Description: None
+T-RAT: https://github.com/tucommenceapousser/T-RAT - Description: A multifunctional Android RAT (TELEGRAM BASED)
+t-to-s: https://github.com/tucommenceapousser/t-to-s - Description: None
+tankigen: https://github.com/tucommenceapousser/tankigen - Description: Python script that automate the process of generating various reverse shells.
+taranis-ai: https://github.com/tucommenceapousser/taranis-ai - Description: Taranis AI is an advanced Open-Source Intelligence (OSINT) tool, leveraging Artificial Intelligence to revolutionize information gathering and situational analysis.
+tea: https://github.com/tucommenceapousser/tea - Description: ssh-client worm
+TeamsPhisher: https://github.com/tucommenceapousser/TeamsPhisher - Description: Send phishing messages and attachments to Microsoft Teams users
+Teardroid-phprat: https://github.com/tucommenceapousser/Teardroid-phprat - Description: :india: :robot: It's easy to use android botnet work without port forwarding, vps and android studio
+Teardroidv4_api: https://github.com/tucommenceapousser/Teardroidv4_api - Description: None
+technowlogger: https://github.com/tucommenceapousser/technowlogger - Description: TechNowLogger is Windows/Linux Keylogger Generator which sends key-logs via email with other juicy target info
+TecSpy: https://github.com/tucommenceapousser/TecSpy - Description: None
+teleg-api-bot: https://github.com/tucommenceapousser/teleg-api-bot - Description: None
+telegram-3proxy-install: https://github.com/tucommenceapousser/telegram-3proxy-install - Description: Bash script to install socks5 proxy (3proxy) configured for telegram.
+Telegram-Bot-API: https://github.com/tucommenceapousser/Telegram-Bot-API - Description: None
+telegram-bot-api-go: https://github.com/tucommenceapousser/telegram-bot-api-go - Description: None
+telegram-bot-getids: https://github.com/tucommenceapousser/telegram-bot-getids - Description: None
+telegram-bot-on-replit: https://github.com/tucommenceapousser/telegram-bot-on-replit - Description: None
+Telegram-RAT: https://github.com/tucommenceapousser/Telegram-RAT - Description: None
+telegram-react: https://github.com/tucommenceapousser/telegram-react - Description: None
+Telegram-Snowball-Sampling: https://github.com/tucommenceapousser/Telegram-Snowball-Sampling - Description: The Telegram Snowball Sampling Tool is a Python-based utility designed for conducting snowball sampling to collect Telegram channels through forwards.
+telegram-socks5-proxy: https://github.com/tucommenceapousser/telegram-socks5-proxy - Description: Telegram Socks5 Proxy
+telegram-web-app-bot-example: https://github.com/tucommenceapousser/telegram-web-app-bot-example - Description: None
+TeleKiller: https://github.com/tucommenceapousser/TeleKiller - Description: A Tools Session Hijacking And Stealer Local Passcode Telegram Windows
+teleport-code-generators: https://github.com/tucommenceapousser/teleport-code-generators - Description: None
+teler: https://github.com/tucommenceapousser/teler - Description: Real-time HTTP Intrusion Detection
+teler-waf: https://github.com/tucommenceapousser/teler-waf - Description: teler-waf is a Go HTTP middleware that provides teler IDS functionality.
+Telerecon: https://github.com/tucommenceapousser/Telerecon - Description: A reconnaissance framework for researching and investigating Telegram. 
+telosys-cli: https://github.com/tucommenceapousser/telosys-cli - Description: Telosys CLI - Command Line Interface
+Temp-Mail-Bot: https://github.com/tucommenceapousser/Temp-Mail-Bot - Description: A python telegram bot that can create Temp mail with API of 1secmail.com
+Temp-SMS-Receive: https://github.com/tucommenceapousser/Temp-SMS-Receive - Description: None
+TempMail-Bot: https://github.com/tucommenceapousser/TempMail-Bot - Description: A python oriented telegram bot for generating temporary Emails
+Termux-Apktool: https://github.com/tucommenceapousser/Termux-Apktool - Description: Decompile and Recompile android aplication use termux without openjdk installed
+Text-to-Music: https://github.com/tucommenceapousser/Text-to-Music - Description: None
+TextToVideoAI: https://github.com/tucommenceapousser/TextToVideoAI - Description: None
+TGcollector: https://github.com/tucommenceapousser/TGcollector - Description: Web GUI for collecting messages from Telegram channels
+tgpt: https://github.com/tucommenceapousser/tgpt - Description: ChatGPT in terminal without needing API keys
+TheDorker: https://github.com/tucommenceapousser/TheDorker - Description: Best Google Dorker Available
+theZoo: https://github.com/tucommenceapousser/theZoo - Description: A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public.
+thief_raccoon: https://github.com/tucommenceapousser/thief_raccoon - Description: Thief Raccoon is a tool designed for educational purposes to demonstrate how phishing attacks can be conducted on various operating systems. This tool is intended to raise awareness about cybersecurity threats and help users understand the importance of security measures like 2FA and password
+ThievingFox: https://github.com/tucommenceapousser/ThievingFox - Description: None
+TikTokPy: https://github.com/tucommenceapousser/TikTokPy - Description: TikTok Downloader With Python
+Tiktokup: https://github.com/tucommenceapousser/Tiktokup - Description: None
+tinyshell: https://github.com/tucommenceapousser/tinyshell - Description: None
+tkovr: https://github.com/tucommenceapousser/tkovr - Description: None
+TokenPhisher: https://github.com/tucommenceapousser/TokenPhisher - Description: None
+TokenTactics: https://github.com/tucommenceapousser/TokenTactics - Description: Azure JWT Token Manipulation Toolset
+top-github-scraper: https://github.com/tucommenceapousser/top-github-scraper - Description: Scape top GitHub repositories and users based on keywords
+tor-tutorial: https://github.com/tucommenceapousser/tor-tutorial - Description: Create and Host a dark Web Site (Tor Hidden Service)
+torall: https://github.com/tucommenceapousser/torall - Description: 🧅 TorAll is an anonymization utility tool that redirects all of the system's internet traffic through the TOR network.
+ToRat: https://github.com/tucommenceapousser/ToRat - Description: ToRat is a Remote Administation tool written in Go using Tor as a transport mechanism and RPC for communication
+ToRat_server: https://github.com/tucommenceapousser/ToRat_server - Description: This is the ToRat server, a part of the ToRat Project.
+TorBot: https://github.com/tucommenceapousser/TorBot - Description: None
+torctl: https://github.com/tucommenceapousser/torctl - Description: Script to redirect all traffic through tor network including dns queries for anonymizing entire system
+TORhunter: https://github.com/tucommenceapousser/TORhunter - Description: Designed to scan and exploit vulnerabilities within Tor hidden services. TORhunter allows most tools to work as normal while resolving .onion
+TorPaste: https://github.com/tucommenceapousser/TorPaste - Description: A Pastebin for Tor
+torwebsite: https://github.com/tucommenceapousser/torwebsite - Description: A container to host website on Tor hidden service with .onion address.
+totp-section: https://github.com/tucommenceapousser/totp-section - Description: None
+toxssin: https://github.com/tucommenceapousser/toxssin - Description: An XSS exploitation command-line interface and payload generator.
+tplink-smartplug: https://github.com/tucommenceapousser/tplink-smartplug - Description: TP-Link WiFi SmartPlug Client and Wireshark Dissector
+Track-Em: https://github.com/tucommenceapousser/Track-Em - Description: GPS Location Tracker Using Malicious URL
+TrackDown: https://github.com/tucommenceapousser/TrackDown - Description: None
+TrackDownV2: https://github.com/tucommenceapousser/TrackDownV2 - Description: Track Down people by just using a link.
+Tracking-IP: https://github.com/tucommenceapousser/Tracking-IP - Description: Nothing Like 127.0.0.1
+trape: https://github.com/tucommenceapousser/trape - Description: People tracker on the Internet: OSINT analysis and research tool by Jose Pino
+Trishul: https://github.com/tucommenceapousser/Trishul - Description: Trishul searches for sensitive data with options to specify custom files and custom keywords to look for in the filesystem
+trkdgr: https://github.com/tucommenceapousser/trkdgr - Description: None
+trkn-corspoc-gen: https://github.com/tucommenceapousser/trkn-corspoc-gen - Description: Web script Using Html css and JS to generate POC of the CORS vulnerability.
+trkn-php-injector: https://github.com/tucommenceapousser/trkn-php-injector - Description: Injects php payloads into jpeg images
+trkn-promptist: https://github.com/tucommenceapousser/trkn-promptist - Description: Promptist use OPENAI for level up prompt text
+trkn-proximity: https://github.com/tucommenceapousser/trkn-proximity - Description: A simple proxy.
+trkn-pycalc: https://github.com/tucommenceapousser/trkn-pycalc - Description: None
+trkn-some-tools: https://github.com/tucommenceapousser/trkn-some-tools - Description: None
+trkn-space: https://github.com/tucommenceapousser/trkn-space - Description: None
+trkn-svgen: https://github.com/tucommenceapousser/trkn-svgen - Description: None
+trkn-tmpsms: https://github.com/tucommenceapousser/trkn-tmpsms - Description: None
+trkn-tosint: https://github.com/tucommenceapousser/trkn-tosint - Description: None
+trkn-youtubedl: https://github.com/tucommenceapousser/trkn-youtubedl - Description: None
+trknautoinject: https://github.com/tucommenceapousser/trknautoinject - Description: Nmap & SQL injection automation tool
+trknencoder: https://github.com/tucommenceapousser/trknencoder - Description: None
+trknfbi: https://github.com/tucommenceapousser/trknfbi - Description: Facebook Information
+TrknHuntRthys: https://github.com/tucommenceapousser/TrknHuntRthys - Description: Specific C2 Detection Tool Written To Detect C2 Servers From Rhadamanthys Stealer Malware.
+trknipcam: https://github.com/tucommenceapousser/trknipcam - Description: None
+trknloveroom: https://github.com/tucommenceapousser/trknloveroom - Description: None
+trknspace: https://github.com/tucommenceapousser/trknspace - Description: None
+TrknSpotify: https://github.com/tucommenceapousser/TrknSpotify - Description: None
+TrknTikTok: https://github.com/tucommenceapousser/TrknTikTok - Description: None
+TrknTikTokUp: https://github.com/tucommenceapousser/TrknTikTokUp - Description: None
+trkntosint: https://github.com/tucommenceapousser/trkntosint - Description: OSINT analysis tools of a Telegram bot
+TrknTraductAi: https://github.com/tucommenceapousser/TrknTraductAi - Description: Ai traductor by ✩░▒▓▆▅▃▂▁𝐓𝐑𝐇𝐀𝐂𝐊𝐍𝐎𝐍▁▂▃▅▆▓▒░✩
+trknwatermarker: https://github.com/tucommenceapousser/trknwatermarker - Description: Protection d'images avec filigranes custom by Trhacknon
+trknwebcheck: https://github.com/tucommenceapousser/trknwebcheck - Description: None
+trknxor: https://github.com/tucommenceapousser/trknxor - Description: Encoder PHP webshell to bypass WAF using XOR operations.
+TrknXssCon: https://github.com/tucommenceapousser/TrknXssCon - Description: None
+trknxsscrawl: https://github.com/tucommenceapousser/trknxsscrawl - Description: Xss scanner in python from a domain
+Ttm: https://github.com/tucommenceapousser/Ttm - Description: None
+tucommenceapousser: https://github.com/tucommenceapousser/tucommenceapousser - Description: Config files for my GitHub profile.
+tucommenceapousser.github.io: https://github.com/tucommenceapousser/tucommenceapousser.github.io - Description: None
+Tune-A-Video: https://github.com/tucommenceapousser/Tune-A-Video - Description: None
+Tune-A-Video-inference: https://github.com/tucommenceapousser/Tune-A-Video-inference - Description: None
+tutomcroom: https://github.com/tucommenceapousser/tutomcroom - Description: Tuto wp mcroom
+Tvlist-awesome-m3u-m3u8: https://github.com/tucommenceapousser/Tvlist-awesome-m3u-m3u8 - Description: None
+tweb: https://github.com/tucommenceapousser/tweb - Description: None
+twitter_scraper: https://github.com/tucommenceapousser/twitter_scraper - Description: None
+twitter_scraper2: https://github.com/tucommenceapousser/twitter_scraper2 - Description: None
+txt-to-speech: https://github.com/tucommenceapousser/txt-to-speech - Description: None
+uDork: https://github.com/tucommenceapousser/uDork - Description: uDork is a script written in Bash Scripting that uses advanced Google search techniques to obtain sensitive information in files or directories, find IoT devices, detect versions of web applications, and so on.
+ufonet: https://github.com/tucommenceapousser/ufonet - Description: None
+uidcr3k: https://github.com/tucommenceapousser/uidcr3k - Description: random facebook id cloning tool by azim vau
+ultimaste-nuclei-templates: https://github.com/tucommenceapousser/ultimaste-nuclei-templates - Description: 极致攻防实验室 nuclei 检测 POC
+Ultimate-Facebook-Scraper: https://github.com/tucommenceapousser/Ultimate-Facebook-Scraper - Description: 🤖 A Software that automates your social media interactions to collect posts, photos, videos, interests, friends, followers, and much more on Facebook.
+ultrasecurity-Storm-Breaker: https://github.com/tucommenceapousser/ultrasecurity-Storm-Breaker - Description: None
+Umbral-Stealer: https://github.com/tucommenceapousser/Umbral-Stealer - Description: Umbral Stealer is a fast, lightweight stealer written in C#. The collected data is transferred through discord webhooks.
+UnknSMS: https://github.com/tucommenceapousser/UnknSMS - Description: UnknSMS es un simple script que utiliza la API de https://textbelt.com/ para enviar mensajes de texto (SMS) a un número telefónico de cualquier parte del mundo de manera gratuita y rápida. Se admite 1 mensaje por día.
+untappdScraper: https://github.com/tucommenceapousser/untappdScraper - Description: Script to scrape untappd.com content
+use-python-in-node: https://github.com/tucommenceapousser/use-python-in-node - Description: Example of Python script usage in Node.js with sync/async output rendering in HTML
+ushort: https://github.com/tucommenceapousser/ushort - Description: None
+V-DdoS: https://github.com/tucommenceapousser/V-DdoS - Description: A Ddos Attacking Tool By T34m V18r For Termux.. Just Need Website IP To Start Attack & Use The Port Number 8080
+van-gonography: https://github.com/tucommenceapousser/van-gonography - Description:  Hide 🕵️‍♂️ your files of any type inside a image of your choice using steganography 
+vangonography: https://github.com/tucommenceapousser/vangonography - Description: None
+varsqli: https://github.com/tucommenceapousser/varsqli - Description: None
+varsqli-pro: https://github.com/tucommenceapousser/varsqli-pro - Description: None
+vbanner: https://github.com/tucommenceapousser/vbanner - Description: 🚩 A simple and clean python banner generator - Banners
+VCPlayerBot: https://github.com/tucommenceapousser/VCPlayerBot - Description: None
+viaviweb: https://github.com/tucommenceapousser/viaviweb - Description: None
+video-stream-1: https://github.com/tucommenceapousser/video-stream-1 - Description: None
+videostream: https://github.com/tucommenceapousser/videostream - Description: None
+Villain: https://github.com/tucommenceapousser/Villain - Description: Villain is a C2 framework that can handle multiple TCP socket & HoaxShell-based reverse shells, enhance their functionality with additional features (commands, utilities etc) and share them among connected sibling servers (Villain instances running on different machines).
+Viridae: https://github.com/tucommenceapousser/Viridae - Description: Virus - Trojans - Worms - Malwares
+voice-change-o-matic: https://github.com/tucommenceapousser/voice-change-o-matic - Description: Web Audio API-powered voice changer and visualizer
+voice-changer: https://github.com/tucommenceapousser/voice-changer - Description: Created with CodeSandbox
+voicher: https://github.com/tucommenceapousser/voicher - Description: python voice changer
+VolWeb: https://github.com/tucommenceapousser/VolWeb - Description: A centralized and enhanced memory analysis platform
+VolWeb-Scripts: https://github.com/tucommenceapousser/VolWeb-Scripts - Description: Contains multiple scripts to perform remote memory aquisition and interactions with the VolWeb Platform
+vpsfreepterovm: https://github.com/tucommenceapousser/vpsfreepterovm - Description: This allows for a vm in pterodactyl using proot
+VSCode-Config-File-Parser: https://github.com/tucommenceapousser/VSCode-Config-File-Parser - Description: None
+Vulnerable-Code-Snippets: https://github.com/tucommenceapousser/Vulnerable-Code-Snippets - Description: A small collection of vulnerable code snippets 
+vulnerable-flask-app: https://github.com/tucommenceapousser/vulnerable-flask-app - Description: An intentionally vulnerable flask app, featuring xss and ssti.
+vulnerable-node: https://github.com/tucommenceapousser/vulnerable-node - Description: A vulnerable node express server
+VulnNodeApp: https://github.com/tucommenceapousser/VulnNodeApp - Description: A vulnerable node.js application
+Vulnnr: https://github.com/tucommenceapousser/Vulnnr - Description: Vulnnr - Vulnerability Scanner  And Mass Exploiter, created for pentesting.
+vulnx: https://github.com/tucommenceapousser/vulnx - Description: vulnx 🕷️ an intelligent Bot, Shell can achieve automatic injection, and help researchers detect security vulnerabilities CMS system. It can perform a quick CMS security detection, information collection (including sub-domain name, ip address, country information, organizational information and time zone, etc.) and vulnerability scanning.
+W0rm-Gpt: https://github.com/tucommenceapousser/W0rm-Gpt - Description: This tool named "W0rm-GPT" is mainly use to research all activities which ChatGPT cant't give , All working apis are present in the script , If you do any illegal activites through this script we are not responsible 
+WAchat: https://github.com/tucommenceapousser/WAchat - Description: WhatsApp chat link generator + text sender.
+Waf-Bypass-Xss: https://github.com/tucommenceapousser/Waf-Bypass-Xss - Description: By TRHACKNON : *wordfence* ***sucuri*** **imperva**
+WannaCry2.0-Ransomware-Deface: https://github.com/tucommenceapousser/WannaCry2.0-Ransomware-Deface - Description: HTML WannaCry Ransomware v2.0 - websites defacement injection page
+WannaTool: https://github.com/tucommenceapousser/WannaTool - Description: Script collection
+WAScan: https://github.com/tucommenceapousser/WAScan - Description: None
+wasp: https://github.com/tucommenceapousser/wasp - Description: The fastest way to develop full-stack web apps with React & Node.js. 
+waybackurls: https://github.com/tucommenceapousser/waybackurls - Description: None
+WA_CRASHER: https://github.com/tucommenceapousser/WA_CRASHER - Description: WhatsApp Crash With one  Message
+web-check: https://github.com/tucommenceapousser/web-check - Description: 🕵️‍♂️ All-in-one OSINT tool for analysing any website
+web-check-trkn: https://github.com/tucommenceapousser/web-check-trkn - Description: 🕵️‍♂️ All-in-one OSINT tool for analysing any website
+web-check-trknx: https://github.com/tucommenceapousser/web-check-trknx - Description: None
+web-console: https://github.com/tucommenceapousser/web-console - Description: :desktop_computer: Simple web-based shell in your browser (outdated)
+web-interfacer-bot: https://github.com/tucommenceapousser/web-interfacer-bot - Description: None
+web-wordlist-generator: https://github.com/tucommenceapousser/web-wordlist-generator - Description: WEB-Wordlist-Generator crèeates related wordlists after scanning your web applications.
+web3udmintfeed.nft: https://github.com/tucommenceapousser/web3udmintfeed.nft - Description: Unstoppable Domains mint feed
+webaudio-examples: https://github.com/tucommenceapousser/webaudio-examples - Description: Code examples that accompany the MDN Web Docs pages relating to Web Audio.
+WebChecker: https://github.com/tucommenceapousser/WebChecker - Description: None
+webchecktrkn: https://github.com/tucommenceapousser/webchecktrkn - Description: None
+webcopilot: https://github.com/tucommenceapousser/webcopilot - Description: An automation tool that enumerates subdomains then filters out xss, sqli, open redirect, lfi, ssrf and rce parameters and then scans for vulnerabilities.
+WebDav-Mass-Deface-Exploit: https://github.com/tucommenceapousser/WebDav-Mass-Deface-Exploit - Description: None
+webelem: https://github.com/tucommenceapousser/webelem - Description: None
+webogra: https://github.com/tucommenceapousser/webogra - Description: None
+webogram: https://github.com/tucommenceapousser/webogram - Description: None
+websqli-finder: https://github.com/tucommenceapousser/websqli-finder - Description: None
+whatsapp-chatgpt: https://github.com/tucommenceapousser/whatsapp-chatgpt - Description: ChatGPT + DALL-E + WhatsApp = AI Assistant :rocket: :robot:
+whatsapp-hacking: https://github.com/tucommenceapousser/whatsapp-hacking - Description: Hack whatsapp web
+whatsapp-phisher: https://github.com/tucommenceapousser/whatsapp-phisher - Description: powerful whatsapp phishing tool
+WhatsApp-Phishing-Script: https://github.com/tucommenceapousser/WhatsApp-Phishing-Script - Description: This repository contains code writen in node.js for running a phishing attack against the official https://web.whatsapp.com. Idea was originally taken from http://blog.mawalabs.de/whatsapp-phishing/
+Whatsapp-spy: https://github.com/tucommenceapousser/Whatsapp-spy - Description: Its a Simple Social engineering Tool
+WhatsMyName: https://github.com/tucommenceapousser/WhatsMyName - Description: This repository has the unified data required to perform user enumeration on various websites. Content is in a JSON file and can easily be used in other projects.
+WhatsUps: https://github.com/tucommenceapousser/WhatsUps - Description: None
+WhatWaf: https://github.com/tucommenceapousser/WhatWaf - Description: Detect and bypass web application firewalls and protection systems
+whisper: https://github.com/tucommenceapousser/whisper - Description: Robust Speech Recognition via Large-Scale Weak Supervision
+Whisper-Large-V3: https://github.com/tucommenceapousser/Whisper-Large-V3 - Description: Audio Transcription with Whisper Large V3
+whisper-playground: https://github.com/tucommenceapousser/whisper-playground - Description: None
+WhiteRabbitNeo-7B-v1.5a: https://github.com/tucommenceapousser/WhiteRabbitNeo-7B-v1.5a - Description: None
+wholeaked: https://github.com/tucommenceapousser/wholeaked - Description: a file-sharing tool that allows you to find the responsible person in case of a leakage
+whspdefendor: https://github.com/tucommenceapousser/whspdefendor - Description: Whspdefendor Exploit Framework v1.0
+wifi-deauth: https://github.com/tucommenceapousser/wifi-deauth - Description: A deauth attack that disconnects all devices from the target wifi network (2.4Ghz & 5Ghz) 
+wifi-deauther-gui: https://github.com/tucommenceapousser/wifi-deauther-gui - Description: This is a gui interface for airmon-ng 
+Wifi-extract: https://github.com/tucommenceapousser/Wifi-extract - Description: Script en python para extraer las contraseñas de todas las redes wifi y enviar por correo.
+Wifi-Hack: https://github.com/tucommenceapousser/Wifi-Hack - Description: Herramienta automatizada para crackear redes WiFi con protección WPA2 y WPS.
+WifiHack: https://github.com/tucommenceapousser/WifiHack - Description: Wifi Hack Using Android Phone
+wifiphisher: https://github.com/tucommenceapousser/wifiphisher - Description: The Rogue Access Point Framework
+wifipumpkin3: https://github.com/tucommenceapousser/wifipumpkin3 - Description: Powerful framework for rogue access point attack.
+Winrar-CVE-2023-40477-POC: https://github.com/tucommenceapousser/Winrar-CVE-2023-40477-POC - Description: CVE-2023-40477 PoC by Wild-Pointer
+wirespy: https://github.com/tucommenceapousser/wirespy - Description: Framework designed to automate various wireless networks attacks (the project was presented on Pentester Academy TV's toolbox in 2017).
+womginx: https://github.com/tucommenceapousser/womginx - Description: Proxy using wombat + nginx
+wordpot: https://github.com/tucommenceapousser/wordpot - Description: A Wordpress Honeypot
+Wordpress-CVE-2020-35749: https://github.com/tucommenceapousser/Wordpress-CVE-2020-35749 - Description: Wordpress Plugin Simple Job Board 2.9.3 LFI Vulnerability (CVE-2020-35749) proof of concept exploit 
+Wordpress-Exploit: https://github.com/tucommenceapousser/Wordpress-Exploit - Description: #Simple Program to search vulnerability wordpress site
+Wordpress-XMLRPC-Brute-Force-Exploit: https://github.com/tucommenceapousser/Wordpress-XMLRPC-Brute-Force-Exploit - Description: Wordpress XMLRPC System Multicall Brute Force Exploit (0day)  by 1N3 @ CrowdShield
+WordPress-XMLRPC-BruteForce: https://github.com/tucommenceapousser/WordPress-XMLRPC-BruteForce - Description: WordPress XMLRPC BruteForce Tool. With the use of this tool you will be able, given a username and a password dictionary, to bruteforce any given WordPress website through the use of its XML-RPC API.
+wp-def: https://github.com/tucommenceapousser/wp-def - Description: Python 2.7
+WP-Extractor: https://github.com/tucommenceapousser/WP-Extractor - Description: Simple WordPress Extractor.
+wp-xmlrpc-bruteforce: https://github.com/tucommenceapousser/wp-xmlrpc-bruteforce - Description: Attempt to Brute-force a WordPress website User Credentials using XMLRPC
+wpa-passwords: https://github.com/tucommenceapousser/wpa-passwords - Description: the best and small passwords lists to crack handshake wpa-wpa2
+wpfighter: https://github.com/tucommenceapousser/wpfighter - Description: Wordpress Brute Force Tool
+wpfinger: https://github.com/tucommenceapousser/wpfinger - Description: wpfinger is a red-team WordPress scanning tool
+WPForce: https://github.com/tucommenceapousser/WPForce - Description: Wordpress Attack Suite
+wpLockPicker: https://github.com/tucommenceapousser/wpLockPicker - Description: None
+Wpushell: https://github.com/tucommenceapousser/Wpushell - Description: Wpushell is a tool used to upload a backdoor shell to a site that uses a WordPress Content Management System with a simple and fast process.
+ws: https://github.com/tucommenceapousser/ws - Description: None
+wsh: https://github.com/tucommenceapousser/wsh - Description: Web shell generator and command line interface.
+wshwp: https://github.com/tucommenceapousser/wshwp - Description: WebShell SQL & Plugins/Themes
+wso-webshell: https://github.com/tucommenceapousser/wso-webshell - Description: 🕹 wso php webshell
+X-Decryptor: https://github.com/tucommenceapousser/X-Decryptor - Description: A tools for automate decrypt result dump sql
+X-Ransom: https://github.com/tucommenceapousser/X-Ransom - Description: A Tools for Encrypt/Decrypt File
+X-Recon: https://github.com/tucommenceapousser/X-Recon - Description: A utility for detecting webpage inputs and conducting XSS scans.
+X-staghide: https://github.com/tucommenceapousser/X-staghide - Description: X-staghide is a steganography program that is able to hide data in various kinds of image- and audio-files. The color- respectivly sample-frequencies are not changed thus making the embedding resistant against first-order statistical tests
+xdownloader: https://github.com/tucommenceapousser/xdownloader - Description: Downloader Lagu dan Video
+xformers: https://github.com/tucommenceapousser/xformers - Description: None
+xless: https://github.com/tucommenceapousser/xless - Description: The Serverless Blind XSS App
+xmlrpc-bruteforcer: https://github.com/tucommenceapousser/xmlrpc-bruteforcer - Description: Multi-threaded XMLRPC brute forcer using amplification attacks targeting WordPress installations prior to version 4.4.
+xmlrpc-exploit: https://github.com/tucommenceapousser/xmlrpc-exploit - Description: Exploiting the xmlrpc.php on all WordPress versions
+XNX-Cyber: https://github.com/tucommenceapousser/XNX-Cyber - Description: None
+xor: https://github.com/tucommenceapousser/xor - Description: Encoder PHP webshell to bypass WAF using XOR operations.
+XOR-Files: https://github.com/tucommenceapousser/XOR-Files - Description: Powershell & Python XOR 2 Files
+Xorcry: https://github.com/tucommenceapousser/Xorcry - Description: Simple encryption tool designed to perform a bitwise XOR operation (XORing) on the contents of files with specific extensions in a given directory or file path. The XOR operation is executed using a user-defined key to encrypt the data.
+XORCryptor: https://github.com/tucommenceapousser/XORCryptor - Description: CLI tool for multi-threaded XOR encryption
+xorshell: https://github.com/tucommenceapousser/xorshell - Description: Encoder PHP webshell to bypass WAF using XOR operations.
+xortool: https://github.com/tucommenceapousser/xortool - Description: A tool to analyze multi-byte xor cipher
+XPATH-Brute: https://github.com/tucommenceapousser/XPATH-Brute - Description: A bruteforcer in python for logins vulnerable to XPATH attacks
+xransom: https://github.com/tucommenceapousser/xransom - Description: Create ransomware with termux no root 
+XRCross: https://github.com/tucommenceapousser/XRCross - Description: None
+xsrfpr0b3-: https://github.com/tucommenceapousser/xsrfpr0b3- - Description:  xsrfkr0k3 is an advanced Cross Site Request Forgery (CSRF/XSRF) Audit and Exploitation Toolkit. Equipped with a Powerful Crawling Engine and Numerous Systematic Checks, it is now able to detect most cases of CSRF vulnerabilities
+xss: https://github.com/tucommenceapousser/xss - Description: Cross-site scripting (XSS)
+XSS-Bypass-Filters: https://github.com/tucommenceapousser/XSS-Bypass-Filters - Description: None
+xss-catcher: https://github.com/tucommenceapousser/xss-catcher - Description: Simple API for storing all incoming XSS requests.
+xss-challenge: https://github.com/tucommenceapousser/xss-challenge - Description: Cross-site scripting (XSS)
+XSS-CVE-2022-30489: https://github.com/tucommenceapousser/XSS-CVE-2022-30489 - Description: None
+XSS-Freak: https://github.com/tucommenceapousser/XSS-Freak - Description: XSS-Freak is an xss scanner fully written in python3 from scratch. it is one of its kind since it crawls the website for all possible links and directories to expand its attack scope. then it searches them for inputs tags and then launches a  bunch of xss payloads. if an inputs is not sanitized and vulnerable to xss attacks
+xss-payload-list: https://github.com/tucommenceapousser/xss-payload-list - Description: 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
+XSS-Payloads: https://github.com/tucommenceapousser/XSS-Payloads - Description: This repository holds all the list of advanced XSS payloads that can be used in penetration testing. These payloads can be loaded into XSS scanners as well.
+XSS-Server: https://github.com/tucommenceapousser/XSS-Server - Description: None
+xss-vulnerability: https://github.com/tucommenceapousser/xss-vulnerability - Description: Explanation of Cross-site Scripting (XSS) with PHP mini project.
+XsSCan: https://github.com/tucommenceapousser/XsSCan - Description: XsSCan | Web Application XSS Scanner | Coded By Sir.4m1R [Mr.Hidden]
+XSSCon: https://github.com/tucommenceapousser/XSSCon - Description: XSSCon: Simple XSS Scanner tool
+xsscrawl: https://github.com/tucommenceapousser/xsscrawl - Description: Xss scanner in python from a domain
+xssdom: https://github.com/tucommenceapousser/xssdom - Description: None
+xssgen: https://github.com/tucommenceapousser/xssgen - Description: None
+xsshunter-express: https://github.com/tucommenceapousser/xsshunter-express - Description: An easy-to-setup version of XSS Hunter. Sets up in five minutes and requires no maintenance!
+xsshunter_client: https://github.com/tucommenceapousser/xsshunter_client - Description: Correlated injection proxy tool for XSS Hunter
+XSSLOAD: https://github.com/tucommenceapousser/XSSLOAD - Description: Automatic XSS Vulnerability Scanner, Dorker, and Payload Injector
+XssPy: https://github.com/tucommenceapousser/XssPy - Description: None
+XssScan: https://github.com/tucommenceapousser/XssScan - Description: XssScan is a automated tool for scanning XSS (Cross Site Scripting) Vulnerability by enumerating  reflection points for a given request and given set of script payloads
+XSSTRACK: https://github.com/tucommenceapousser/XSSTRACK - Description: None
+XSS_1312: https://github.com/tucommenceapousser/XSS_1312 - Description: None
+XSS_Bypass: https://github.com/tucommenceapousser/XSS_Bypass - Description: XSS Bypass 
+xss_vulnerability_challenges: https://github.com/tucommenceapousser/xss_vulnerability_challenges - Description: this repository is a docker containing some "XSS vulnerability" challenges and bypass examples.
+xzbot: https://github.com/tucommenceapousser/xzbot - Description: notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)
+yaradbg-backend: https://github.com/tucommenceapousser/yaradbg-backend - Description: None
+yaradbg-frontend: https://github.com/tucommenceapousser/yaradbg-frontend - Description: None
+yesitsme: https://github.com/tucommenceapousser/yesitsme - Description: Simple OSINT script to find Instagram profiles by name and e-mail/phone 
+YouTube-HD: https://github.com/tucommenceapousser/YouTube-HD - Description: None
+youtube-music: https://github.com/tucommenceapousser/youtube-music - Description: None
+youtube-search-api: https://github.com/tucommenceapousser/youtube-search-api - Description: Get Youtube Search result without any login or api key
+Youtube-viewbot: https://github.com/tucommenceapousser/Youtube-viewbot - Description: 🦊 Fast views botter based on proxies
+YouTubeDownload: https://github.com/tucommenceapousser/YouTubeDownload - Description: GUI and CLI for downloading YouTube video/audio.
+youtube_downloader_server: https://github.com/tucommenceapousser/youtube_downloader_server - Description: This is a python bot that downloads all the videos from a particular youtube channel
+youtube_ezy: https://github.com/tucommenceapousser/youtube_ezy - Description: Download Youtube Video's in Both MP3 & MP4 format! | Multi video's + playlist Downloader Support
+yt-video-dl: https://github.com/tucommenceapousser/yt-video-dl - Description: None
+zap-cli: https://github.com/tucommenceapousser/zap-cli - Description: A simple tool for interacting with OWASP ZAP from the commandline.
+Zaqar_EmailSpoofer: https://github.com/tucommenceapousser/Zaqar_EmailSpoofer - Description: A powerful PHP email spoofer with a polished UI, rich text editor, and multiple sending options.
+zarp: https://github.com/tucommenceapousser/zarp - Description: Network Attack Tool
+Zehef: https://github.com/tucommenceapousser/Zehef - Description: Zehef is an osint tool to track emails
+Zmap-ProxyScanner: https://github.com/tucommenceapousser/Zmap-ProxyScanner - Description: None
+zoomsound: https://github.com/tucommenceapousser/zoomsound - Description: None
+zRev2: https://github.com/tucommenceapousser/zRev2 - Description: [Python] ZReverse IP 2. Tools for find hosted domains from IPs
+zsh_codex: https://github.com/tucommenceapousser/zsh_codex - Description: This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Choisir des SVG à afficher</title>
+</head>
+<body>
+    <h1>Choisir des SVG à afficher</h1>
+    <input type="file" id="fileInput" accept=".svg" multiple>
+    <button id="uploadButton">Upload</button>
+    <div id="svgContainer"></div>
+    <div id="existingSVGs">
+        <h2>Fichiers SVG existants :</h2>
+        <ul id="svgList"></ul>
+    </div>
+    <div id="svgContainer">
+        <object type="image/svg+xml" data="cup.svg" id="cupSVG">
+            Votre navigateur ne supporte pas les SVG.
+        </object>
+    </div>
+    <script src="svgg.js"></script>
+</body>
+</html>
